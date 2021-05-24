@@ -1,0 +1,10 @@
+ambré, amber, gold
+
+blanc, Dame jeanne
+
+épicé, spiced
+claire/forte bonpland spiced
+
+years, old, aged, cask, fut, dark, \d\dY, ans, vieux, xo, vsop
+
+cuvée

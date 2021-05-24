@@ -1,0 +1,984 @@
+nom,producteur,origine,volume,degre,type
+Cuba 5 Years,1731 fine & rare,Pays-Bas,70.0,46.0,Vieux
+Cuba Dominican Republic (Spanish Caribbean XO),1731 fine & rare,Pays-Bas,70.0,46.0,Vieux
+Guatemala Panama Belize (Central America XO),1731 fine & rare,Pays-Bas,70.0,46.0,Vieux
+Panama 6 Years,1731 fine & rare,Pays-Bas,70.0,46.0,Vieux
+Trinidad Barbados Jamaica (British West Indies XO),1731 fine & rare,Pays-Bas,70.0,46.0,Vieux
+Caroni 12 Ans,Blackadder,Angleterre,70.0,46.0,Vieux
+Caroni 18 Ans,Blackadder,Angleterre,70.0,63.1,Vieux
+Fiji 2001-2012 - 11 Years,Blackadder,Angleterre,70.0,63.9,Vieux
+Guadeloupe Belvedere 1998-2015- 17 Years,Blackadder,Angleterre,70.0,57.5,Vieux
+Guadeloupe Belvedere 1998-2017- 19 Years,Blackadder,Angleterre,70.0,56.6,Vieux
+Guyana Diamond 2008-2018- 10 Years,Blackadder,Angleterre,70.0,57.6,Vieux
+Guyana Diamond 2003-2016- 12 Years,Blackadder,Angleterre,70.0,64.3,Vieux
+Guyana Diamond 2003-2015- 14 Years,Blackadder,Angleterre,70.0,63.1,Vieux
+Guyana Diamond 2003-2015- 15 Years,Blackadder,Angleterre,70.0,48.6,Vieux
+Jamaica Hampden - 14 Years,Blackadder,Angleterre,70.0,57.4,Vieux
+Jamaica Hampden 2000-2016- 15 Years,Blackadder,Angleterre,70.0,57.0,Vieux
+Jamaica Hampden 2000-2017- 16 Years,Blackadder,Angleterre,70.0,56.1,Vieux
+Nicaragua 1999,Blackadder,Angleterre,70.0,46.0,Vieux
+Ste-Lucie 1999-2012,Blackadder,Angleterre,70.0,68.2,Vieux
+Blanc VSOP,Bonpland,Allemagne,70.0,40.0,Spiced
+Claire,Bonpland,Allemagne,70.0,42.0,Spiced
+Forte,Bonpland,Allemagne,70.0,55.0,Spiced
+Rouge VSOP,Bonpland,Allemagne,70.0,40.0,Spiced
+Single Cask (XO) - Barbados 20 Years,Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Barbados 13 Years (Foursquare),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Belize 13 Years (Travellers),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Dominican 16 Years,Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Fiji 12 Years,Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Guyana 19 Years (Uitvlugt),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Guyana 23 Years (Uitvlugt),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Guyana 30 Years (Diamond),Bonpland,Allemagne,70.0,50.0,Vieux
+Single Cask (XO) - Guyana 28 Years (Enmore),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Jamaica 18 Years (Hampden),Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Nicaragua 18 Years,Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - St. Lucia 14 Years,Bonpland,Allemagne,70.0,45.0,Vieux
+Single Cask (XO) - Trinidad 21 Years (Caroni),Bonpland,Allemagne,70.0,50.0,Vieux
+Sombre (Dark Rum),Bonpland,Allemagne,70.0,40.0,Vieux
+Black Spiced Rum,Bristol classic rum,Angleterre,70.0,42.0,Spiced
+Caribbean Collection,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Caroni Blended 1999,Bristol classic rum,Angleterre,70.0,43.1,Vieux
+Caroni Felicite Gold,Bristol classic rum,Angleterre,70.0,40.0,Ambre
+Caroni VSOC,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Demerara Rum Enmore Still - 1988,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Diamond Distillery Demerara Rum - 1998,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Diamond Distillery Demerara Rum - 2003,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Fine Barbados Rockley Still - 12 Years (1986-1998) - West Indies,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+"Fine Barbados Rockley Still (Millesime 1986-2012, Sherry Finish) - West Indies",Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Fine Barbados 2003-2012 (Foursquare),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Fine Barbados 2004-2013 (Foursquare),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Fine Barbados 2004-2016 (Foursquare),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Fine Cuban Rum 2003-2013 (Sancti Spiritus),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Fine Cuban Rum 2003-2015 (Sancti Spiritus),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Fine Cuban Rum 2003-2016 (Sancti Spiritus),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Demerara Rum Enmore - 1988-2018 (Sherry Finish),Bristol classic rum,Angleterre,70.0,46.5,Vieux
+Finest Mauritus Cane Juice Rhum (Labourdonnais),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Mauritus 5 Ans (Labourdonnais),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Trinidad Rum - Caroni 1974-2008,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Finest Trinidad Rum - Caroni 1989,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Trinidad Rum 1423 - Caroni 1993,Bristol classic rum,Angleterre,70.0,51.9,Vieux
+Finest Trinidad Rum - Caroni 1995-2015,Bristol classic rum,Angleterre,70.0,63.1,Vieux
+Finest Trinidad Rum - Caroni 1996-2010,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Trinidad Rum - Caroni 1996-2013,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Finest Trinidad Rum - Caroni 1996-2014,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Finest Trinidad Rum - Caroni 1997-2016,Bristol classic rum,Angleterre,70.0,61.5,Vieux
+Finest Trinidad Rum - Caroni 1997-2017,Bristol classic rum,Angleterre,70.0,61.5,Vieux
+Finest Trinidad Rum - Caroni 1997-2019,Bristol classic rum,Angleterre,70.0,56.4,Vieux
+Finest Trinidad Rum - Caroni 1998-2008,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Finest Trinidad Rum - Caroni 1998-2013,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Finest Trinidad Rum - Caroni 1998-2015,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Haiti 2004 Barbancourt,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Jamaica Long Pond - 13 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Jamaica Monymusk - 21 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Jamaica Monymusk Still - 23 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Jamaica Rum 2002 - Vale Royal Wedderburn,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Old Demerara Rum - 1985 Versailles Still (Enmore),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Mourant Demerara Rum - 1980 (Diamond),Bristol classic rum,Angleterre,70.0,51.0,Vieux
+Port Mourant Demerara Rum 17 Ans - 1990 (Diamond),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Morant Demerara Rum 25 Ans - 1990 (Diamond),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Mourant Demerara Rum - 1999-2013 (Diamond),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Mourant Demerara Rum - 1999-2014 (Diamond),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Mourant Demerara Rum - 1999-2015 (Diamond),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Port Mourant Demerara Rum - 2008-2018 (Diamond),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Port Mourant Still Demerara - 12 Years (Uitvlugt),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Reserve Rum of Belize (2005),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Reserve Rum of Grenada -  2003 (Westerhall),Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Haiti - 2004-2014,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Haiti - 2004-2016,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Jamaica 8 Ans Worthy Park,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Mauritus - 2010-2015,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Nicaragua - 1999-2017,Bristol classic rum,Angleterre,70.0,43.0,Vieux
+Reserve Rum of Nicaragua - 2002-2013,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Reserve Rum of Nicaragua - 2002-2015,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Reserve Rum Of Peru - 8 Years Old,Bristol classic rum,Angleterre,70.0,40.0,Vieux
+Reserve Rum Of Trinidad - 10 Years Old Caroni,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Single Cask Demerara Versailles (Enmore),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Single Demerara Rum From Versailles Distillery (Aged 11 Years)  - Cask #8447,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Single Still Rum Monymusk - 20 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Single Still Rum Port Mourant - 12 Years (Uitvlugt),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Single Still Rum Versailles - 12 Years (Enmore),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+The Demerara Enmore Still - 12 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+The Demerara Enmore - 18 Years,Bristol classic rum,Angleterre,70.0,46.0,Vieux
+The Versailles Still Demerara - 16 Years (Enmore),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+The Versailles Still Demerara - 18 Years (Enmore),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Trinidad Rum Caroni 1998-2019,Bristol classic rum,Angleterre,70.0,58.7,Vieux
+Millesime 1997 (Caroni),Bristol spirit,Angleterre,70.0,61.5,Vieux
+Monymusk 1977 (Single Still Rum),Bristol spirit,Angleterre,70.0,46.0,Vieux
+VSOC (Caroni),Bristol spirit,Angleterre,70.0,40.0,Vieux
+ADC Sancti Spiritus - Aged 14 Years,Cadenhead's,Ecosse,70.0,59.2,Vieux
+AWM Enmore - Aged 16 Years,Cadenhead's,Ecosse,70.0,64.9,Vieux
+AWM Enmore - Aged 18 Years,Cadenhead's,Ecosse,70.0,63.3,Vieux
+BBR WIRD - 11 Years,Cadenhead's,Ecosse,70.0,59.1,Vieux
+BMC Epris - Aged 14 Years (1999),Cadenhead's,Ecosse,70.0,45.3,Vieux
+BMC Epris - Aged 15 Years (1999),Cadenhead's,Ecosse,70.0,45.4,Vieux
+BMMG Mount Gay - Aged 8 Years,Cadenhead's,Ecosse,70.0,66.3,Vieux
+BRS Rockley - 14 Years,Cadenhead's,Ecosse,70.0,69.2,Vieux
+BRS Rockley - 16 Years,Cadenhead's,Ecosse,70.0,67.7,Vieux
+"Caribbean Rum (57,7°)",Cadenhead's,Ecosse,70.0,57.7,Vieux
+"Caribbean Rum (58,8°)",Cadenhead's,Ecosse,70.0,58.8,Vieux
+Classic Green Label,Cadenhead's,Ecosse,70.0,50.0,Vieux
+Classic Rum,Cadenhead's,Ecosse,70.0,50.0,Vieux
+CMA Sancti Spiritus - Aged 17 Years (1999-April 2016),Cadenhead's,Ecosse,70.0,62.6,Vieux
+CMA Sancti Spiritus - Aged 17 Years (1999-December 2016),Cadenhead's,Ecosse,70.0,62.2,Vieux
+CRV Long Pond - 13 Years,Cadenhead's,Ecosse,70.0,70.4,Vieux
+CRV Long Pond - 20 Years,Cadenhead's,Ecosse,70.0,73.0,Vieux
+CRV Long Pond - 22 Years,Cadenhead's,Ecosse,70.0,69.8,Vieux
+FSPD South Pacific - 12 Years,Cadenhead's,Ecosse,70.0,60.7,Vieux
+FSPD South Pacific - 13 Years,Cadenhead's,Ecosse,70.0,59.6,Vieux
+Gardel Distillery - Aged 18 Years,Cadenhead's,Ecosse,70.0,57.2,Vieux
+Gardel Distillery - Aged 20 Years,Cadenhead's,Ecosse,70.0,57.8,Vieux
+GM Uitvlugt - Aged 24 Years,Cadenhead's,Ecosse,70.0,69.0,Vieux
+GM Uitvlugt - Aged 25 Years,Cadenhead's,Ecosse,70.0,70.2,Vieux
+GM Uitvlugt - Aged 30 Years (1974-2004),Cadenhead's,Ecosse,70.0,61.5,Vieux
+GM Uitvlugt - Aged 30 Years (1974-2005),Cadenhead's,Ecosse,70.0,60.3,Vieux
+GMBV Bellevue - Aged 16 Years,Cadenhead's,Ecosse,70.0,57.1,Vieux
+GMBV Bellevue - Aged 17 Years,Cadenhead's,Ecosse,70.0,54.3,Vieux
+Green Label Barbados - Aged 11 Years (West Indies),Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Barbados - Aged 15 Years (West Indies),Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Barbados - Aged 18 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Brazilian - Aged 12 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Brazilian - Aged 13 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Demerara - Aged 10 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+"Green Label Demerara - Distilled 1975 (38,5°)",Cadenhead's,Ecosse,70.0,38.5,Vieux
+"Green Label Demerara - Distilled 1975 (40,6°)",Cadenhead's,Ecosse,70.0,40.6,Vieux
+Green Label Guyanan - Aged 9 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Guyanan - Aged 15 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Haitian - Aged 7 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Haitian - Aged 9 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Jamaican Rum - Aged 10 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Jamaican Rum - Aged 13 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Jamaican Rum - Aged 25 Years (Long Pond),Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Jamaican Rum - Aged 30 Years,Cadenhead's,Ecosse,70.0,51.8,Vieux
+Green Label Nicaraguan Rum - Aged 9 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Nicaraguan Rum - Aged 12 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+Green Label Panama Rum - Aged 15 Years,Cadenhead's,Ecosse,70.0,46.0,Vieux
+HLCF Hampden - Aged 13 Years,Cadenhead's,Ecosse,70.0,66.2,Vieux
+HTR Caroni - Aged 18 Years,Cadenhead's,Ecosse,70.0,65.8,Vieux
+HTR Caroni - Aged 20 Years,Cadenhead's,Ecosse,70.0,60.6,Vieux
+IRW Long Pond - 10 Years (1986-1996),Cadenhead's,Ecosse,70.0,73.6,Vieux
+IRW Long Pond - 10 Years (1986-1997) - 71.9°,Cadenhead's,Ecosse,70.0,71.9,Vieux
+IRW Long Pond - 10 Years (1986-1997) - 75°,Cadenhead's,Ecosse,70.0,75.0,Vieux
+IRW Long Pond - 13 Years,Cadenhead's,Ecosse,70.0,70.1,Vieux
+IRW Long Pond - 18 Years (1986-2004),Cadenhead's,Ecosse,70.0,68.3,Vieux
+IRW Long Pond - 18 Years (1986-2005),Cadenhead's,Ecosse,70.0,67.5,Vieux
+JMLR Hampden - Aged 8 Years,Cadenhead's,Ecosse,70.0,63.2,Vieux
+JMLR Hampden - Aged 12 Years (2000-2012),Cadenhead's,Ecosse,70.0,62.1,Vieux
+JMLR Hampden - Aged 12 Years (2002-2014),Cadenhead's,Ecosse,70.0,61.6,Vieux
+JMWP Worthy Park - Aged 11 Years,Cadenhead's,Ecosse,70.0,57.9,Vieux
+KFM Enmore - 12 Years,Cadenhead's,Ecosse,70.0,66.0,Vieux
+KFM Enmore - 16 Years,Cadenhead's,Ecosse,70.0,63.9,Vieux
+MBFS Foursquare - 11 Years,Cadenhead's,Ecosse,70.0,60.6,Vieux
+MEV Enmore - 26 Years,Cadenhead's,Ecosse,70.0,57.2,Vieux
+MPM Diamond - 14 Years,Cadenhead's,Ecosse,70.0,59.1,Vieux
+MPM Uitvlugt - 12 Years,Cadenhead's,Ecosse,70.0,62.0,Vieux
+MUI Uitvlugt - Aged 16 Years,Cadenhead's,Ecosse,70.0,60.2,Vieux
+NMC Volcano Nicaragua - Aged 11 Years,Cadenhead's,Ecosse,70.0,62.0,Vieux
+NMC Volcano Nicaragua - Aged 17 Years,Cadenhead's,Ecosse,70.0,57.6,Vieux
+PDW Caribbean Distillers LTD - Aged 15 Years,Cadenhead's,Ecosse,70.0,63.0,Vieux
+PDW Caribbean Distillers LTD - Aged 28 Years,Cadenhead's,Ecosse,70.0,63.2,Vieux
+PDW Caribbean Distillers LTD - Aged 29 Years,Cadenhead's,Ecosse,70.0,60.9,Vieux
+PDW Caribbean Distillers LTD - Aged 30 Years,Cadenhead's,Ecosse,70.0,53.1,Vieux
+PM Uitvlugt - Aged 14 Years,Cadenhead's,Ecosse,70.0,70.6,Vieux
+PM Uitvlugt - Aged 36 Years (1964-2000),Cadenhead's,Ecosse,70.0,70.0,Vieux
+PM Uitvlugt - Aged 36 Years (1964-2001),Cadenhead's,Ecosse,70.0,69.3,Vieux
+Port Morant Uitvlugt - Aged 30 Years,Cadenhead's,Ecosse,70.0,73.3,Vieux
+Port Morant Uitvlugt - Aged 32 Years,Cadenhead's,Ecosse,70.0,72.1,Vieux
+Providence Caroni - Aged 10 Years,Cadenhead's,Ecosse,70.0,67.9,Vieux
+Providence Caroni - Aged 12 Years,Cadenhead's,Ecosse,70.0,66.3,Vieux
+Providence Caroni - Aged 14 Years,Cadenhead's,Ecosse,70.0,66.1,Vieux
+REV Enmore - 11 Years,Cadenhead's,Ecosse,70.0,70.0,Vieux
+SFBT Travellers Distillery -  Aged 9 Years,Cadenhead's,Ecosse,70.0,64.6,Vieux
+SFBT Travellers Distillery -  Aged 11 Years,Cadenhead's,Ecosse,70.0,63.4,Vieux
+SLJD St Lucia Distillers -  Aged 9 Years,Cadenhead's,Ecosse,70.0,70.8,Vieux
+TMAH Trinidad Distillers - Aged 12 Years,Cadenhead's,Ecosse,70.0,67.4,Vieux
+10 Ans Port Mourant (Uitvlugt),Ad rattray,Ecosse,70.0,46.0,Vieux
+TMAH Trinidad Distillers - Aged 19 Years,Cadenhead's,Ecosse,70.0,68.3,Vieux
+TMAH Trinidad Distillers - Aged 21 Years,Cadenhead's,Ecosse,70.0,66.9,Vieux
+TMAH Trinidad Distillers - Aged 24 Years,Cadenhead's,Ecosse,70.0,62.6,Vieux
+TMAH Trinidad Distillers - Aged 25 Years,Cadenhead's,Ecosse,70.0,64.3,Vieux
+TMCG Caroni - Aged 20 Years (Whisk-e Ltd),Cadenhead's,Ecosse,70.0,62.5,Vieux
+TMCG Caroni - Aged 21 Years,Cadenhead's,Ecosse,70.0,61.6,Vieux
+VNL Enmore - 30 Years,Cadenhead's,Ecosse,70.0,62.9,Vieux
+VNL Enmore - 36 Years,Cadenhead's,Ecosse,70.0,62.9,Vieux
+VSG Enmore - 10 Years,Cadenhead's,Ecosse,70.0,75.7,Vieux
+VSG Enmore - 11 Years,Cadenhead's,Ecosse,70.0,74.2,Vieux
+VSG Enmore - 13 Years,Cadenhead's,Ecosse,70.0,71.6,Vieux
+VSG Enmore - 15 Years,Cadenhead's,Ecosse,70.0,72.5,Vieux
+Warehouse Tasting - Blended Rum,Cadenhead's,Ecosse,70.0,62.0,Vieux
+WIRR (WIRD) - 12 Years (1986-1998),Cadenhead's,Ecosse,70.0,74.1,Vieux
+WIRR (WIRD) - 12 Years (1986-1999),Cadenhead's,Ecosse,70.0,73.4,Vieux
+XPD Enmore - Aged 28 Years,Cadenhead's,Ecosse,70.0,67.1,Vieux
+XPD Enmore - Aged 29 Years,Cadenhead's,Ecosse,70.0,64.7,Vieux
+XPD Enmore - Aged 32 Years,Cadenhead's,Ecosse,70.0,61.8,Vieux
+Single Estate Australia - Aged 4 Years (Beenleigh),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Belize - Aged 9 Years (Travellers),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Barbados - Aged 8 Years (Foursquare),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Dominican Republic - Aged 5 Years (Barceló),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Guadeloupe - Aged 3 Years (Bonne Mere),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Nicaragua - Aged 12 Years,Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Estate Trinidad - Aged 8 Years (Angostura),Cane island,Pays-Bas,70.0,43.0,Vieux
+Single Island Blend Barbados - Extra Old,Cane island,Pays-Bas,70.0,40.0,Vieux
+Single Island Blend Cuba - Gran Añejo,Cane island,Pays-Bas,70.0,40.0,Vieux
+Single Island Blend Jamaica - Superior Reserve,Cane island,Pays-Bas,70.0,40.0,Vieux
+Single Island Blend Trinidad,Cane island,Pays-Bas,70.0,40.0,Vieux
+Fine Old Trinidad Rum (TDL),Caribbean jack,Allemagne,70.0,43.0,Vieux
+Barbados 1986 (West Indies),Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Brut de Fûts - 1980 Sainte-Luce (Trois Rivieres),Chantal comte,France,70.0,58.0,Vieux
+Brut de Fûts - Hors-d'Age (Bielle),Chantal comte,France,70.0,58.0,Vieux
+Brut de Fûts - Hors-d'Age (Non Filtre) - Bielle,Chantal comte,France,70.0,58.0,Vieux
+Cuvee Caribaea - Edition Numerotee (Distillerie du Simon),Chantal comte,France,70.0,50.16,Vieux
+Fighting Spirit Blue (Distillerie du Simon),Chantal comte,France,70.0,50.0,Vieux
+Fighting Spirit Gold (Distillerie du Simon),Chantal comte,France,70.0,50.0,Ambre
+Fighting Spirit Red (Bielle),Chantal comte,France,70.0,50.0,Vieux
+La Tour De L'Or - 2002 (La Favorite),Chantal comte,France,70.0,54.4,Vieux
+La Tour De L'Or - Blanc 2016 (HSE),Chantal comte,France,70.0,46.04,Blanc
+La Tour De L'Or - Bielle (55°),Chantal comte,France,70.0,55.0,Vieux
+"La Tour De L'Or - Bielle (56,6°)",Chantal comte,France,70.0,56.6,Vieux
+La Tour De L'Or - Bourbon Finish (HSE),Chantal comte,France,70.0,46.5,Vieux
+La Tour De L'Or - Hors d'Age (HSE),Chantal comte,France,70.0,45.0,Vieux
+La Tour De L'Or - La Mauny 2001,Chantal comte,France,70.0,64.8,Vieux
+La Tour De L'Or - La Mauny 2005,Chantal comte,France,70.0,51.5,Vieux
+La Tour De L'Or - La Mauny 2006,Chantal comte,France,70.0,57.7,Vieux
+Plantation de la Montagne Pelee - 1975 (Depaz),Chantal comte,France,70.0,45.0,Vieux
+Plantation de la Montagne Pelee - 1976 (Depaz),Chantal comte,France,70.0,45.0,Vieux
+Plantation de la Montagne Pelee - XO (Depaz),Chantal comte,France,70.0,45.0,Vieux
+Sainte-Luce 1977 (Trois Rivieres),Chantal comte,France,70.0,45.0,Vieux
+Batyse XO (Panama),Cherry rocher,France,70.0,40.0,Vieux
+Dreambay XO (Belize),Cherry rocher,France,70.0,40.0,Vieux
+Hauban 5 Ans d'Age (Marie Galante),Cherry rocher,France,70.0,40.0,Vieux
+Pewoke XO (Barbade),Cherry rocher,France,70.0,40.0,Vieux
+Zaye XO (Jamaique),Cherry rocher,France,70.0,40.0,Vieux
+Zwazo XO (Martinique),Cherry rocher,France,70.0,45.0,Vieux
+Australia 11 Ans - Cask #ASS52 - 2007,Compagnie des indes,France,70.0,43.0,Vieux
+Australia 11 Ans - Cask #ASS53 - 2007,Compagnie des indes,France,70.0,43.0,Vieux
+Australia 11 Ans - Cask #ASS54 - 2007,Compagnie des indes,France,70.0,43.0,Vieux
+Barbados 9 Ans - Cask #MB45 - 2006 (Foursquare),Compagnie des indes,France,70.0,62.1,Vieux
+Barbados 9 Ans - Cask #MB46 - 2006 (Foursquare),Compagnie des indes,France,70.0,62.1,Vieux
+Barbados 10 Ans - Cask #BFD14 - 2007 (Foursquare),Compagnie des indes,France,70.0,43.0,Vieux
+Barbados 10 Ans - Cask #BFD15 - 2007 (Foursquare) - Cask Strength,Compagnie des indes,France,70.0,62.1,Vieux
+Barbados 10 Ans - Cask #BFD18 - 2007 (Foursquare),Compagnie des indes,France,70.0,43.0,Vieux
+Barbados 10 Ans - Cask #BFD19 - 2007 (Foursquare) - Cask Strength - Salon du Rhum,Compagnie des indes,France,70.0,62.9,Vieux
+Barbados 10 Ans - Cask #BFD27 - 2007 (Foursquare) - Cask Strength,Compagnie des indes,France,70.0,62.1,Vieux
+Barbados 12 Ans - Cask #BD91 - 2003 (Foursquare),Compagnie des indes,France,70.0,45.0,Vieux
+17 Ans Caroni (Cask #213),Ad rattray,Ecosse,70.0,63.6,Vieux
+18 Ans Caroni,Ad rattray,Ecosse,70.0,46.0,Vieux
+18 Ans Pampero,Ad rattray,Ecosse,70.0,48.4,Vieux
+25 Ans Monymusk (Cask #10),Ad rattray,Ecosse,70.0,46.0,Vieux
+"From Hampden, 15 Years Old - Single Estate Jamaican Rum",Adelphi selection,Ecosse,70.0,54.3,Vieux
+"From Monymusk, 14 Years Old - Single Estate Jamaican Rum (Cask #JM2)",Adelphi selection,Ecosse,70.0,58.8,Vieux
+Cherry Spiced,Admiral vernon's old j,Angleterre,70.0,35.0,Spiced
+Dark Spiced,Admiral vernon's old j,Angleterre,70.0,40.0,Spiced
+Gold Spiced,Admiral vernon's old j,Angleterre,70.0,40.0,Spiced
+Silver,Admiral vernon's old j,Angleterre,70.0,35.0,Spiced
+Barbados 12 Ans - Cask #BD92 - 2003 (Foursquare),Compagnie des indes,France,70.0,45.0,Vieux
+Barbados 16 Ans - Cask #BD24 - 1998 (Foursquare),Compagnie des indes,France,70.0,45.0,Vieux
+Barbados 16 Ans - Cask #BD36 - 1998 (Foursquare),Compagnie des indes,France,70.0,45.0,Vieux
+Barbados 16 Ans - Cask #BD47 - 1998 (Foursquare),Compagnie des indes,France,70.0,45.0,Vieux
+Barbados 16 Ans - Cask #MRS236 - 1998 (Foursquare) - Cask Stength,Compagnie des indes,France,70.0,60.0,Vieux
+Barbados 16 Ans - Cask #FS9 - 1999 (Foursquare),Compagnie des indes,France,70.0,62.0,Vieux
+Barbados 16 Ans - Cask #FS20 - 1999 (Foursquare),Compagnie des indes,France,70.0,62.0,Vieux
+Barbados 20 Ans - Cask BVR5 - 1996,Compagnie des indes,France,70.0,45.0,Vieux
+Belize 8 Ans - Cask #B86 - 2005 (Travellers),Compagnie des indes,France,70.0,44.0,Vieux
+Belize 8 Ans - Cask #SF17 - 2005 (Travellers),Compagnie des indes,France,70.0,44.0,Vieux
+Belize 8 Ans - Cask #SF48 - 2005 (Travellers),Compagnie des indes,France,70.0,64.0,Vieux
+Belize 11 Ans - Cask #BL11 - 2005 (Travellers),Compagnie des indes,France,70.0,66.2,Vieux
+Belize 11 Ans - Cask #BL14 - 2005 (Travellers) - Cask Strength,Compagnie des indes,France,70.0,66.2,Vieux
+Belize 11 Ans - Cask #BL22 - 2005 (Travellers),Compagnie des indes,France,70.0,43.0,Vieux
+Boulet de Canon n°2,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°3,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°4,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°5,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°6,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°7,Compagnie des indes,France,70.0,46.0,Vieux
+Boulet de Canon n°8,Compagnie des indes,France,70.0,46.0,Vieux
+Brazil 16 ans - Cask #BR10 - 1999 (Epris),Compagnie des indes,France,70.0,42.0,Vieux
+Brazil 16 ans - Cask #BR49 - 1999 (Epris),Compagnie des indes,France,70.0,42.0,Vieux
+Caraïbes - Cask #PV1 (Finish Pernand-Vergelesses),Compagnie des indes,France,70.0,46.0,Vieux
+Caribbean 10 Ans - Cask CBW 54,Compagnie des indes,France,70.0,43.0,Vieux
+Caribbean 10 Ans - Cask CBW 73,Compagnie des indes,France,70.0,43.0,Vieux
+Cuba 15 Ans - Cask #C67 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 16 Ans - Cask #CM5 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 16 Ans - Cask #CM8 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 16 Ans - Cask #CM34 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 16 Ans - Cask #CM52 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 16 Ans - Cask #CM61 - 1998 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 18 Ans - Cask #CSS11 - 1999 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuba 18 Ans - Cask #CSS12 - 1999 (Sancti Spiritus),Compagnie des indes,France,70.0,45.0,Vieux
+Cuvee Esper,Compagnie des indes,France,70.0,59.0,Vieux
+Darklice,Compagnie des indes,France,70.0,43.0,Vieux
+Dom. Republic 8 Ans,Compagnie des indes,France,70.0,43.0,Vieux
+Dom. Republic 8 Ans - Cask #DRA3 - 2010,Compagnie des indes,France,70.0,43.0,Vieux
+Dom. Republic 8 Ans - Cask #DRA5 - 2010,Compagnie des indes,France,70.0,43.0,Vieux
+Dom. Republic 8 Ans - Cask #DRA6 - 2010 - Cask Strength,Compagnie des indes,France,70.0,62.1,Vieux
+Dom. Republic 8 Ans - Cask #DRA26 - 2010 - Cask Strength,Compagnie des indes,France,70.0,62.1,Vieux
+Dom. Republic 13 Ans - 2003,Compagnie des indes,France,70.0,46.0,Vieux
+Dom. Republic 13 Ans - Cask #RDM2 - 2003,Compagnie des indes,France,70.0,46.0,Vieux
+Dom. Republic 15 Ans - Cask #RDM3 - 2000,Compagnie des indes,France,70.0,64.9,Vieux
+Dominidad 15 Ans - Cask #SB1 - 2000,Compagnie des indes,France,70.0,43.0,Vieux
+Dominidad 15 Ans - Cask #SB2 - 2000,Compagnie des indes,France,70.0,43.0,Vieux
+Dominidad 15 Ans - Cask #SB3 - 2000,Compagnie des indes,France,70.0,43.0,Vieux
+El Salvador 9 Ans -  Cask #A46 - 2007,Compagnie des indes,France,70.0,43.0,Vieux
+El Salvador 9 Ans -  Cask #A64 - 2007,Compagnie des indes,France,70.0,43.0,Vieux
+Fiji 10 Ans - Cask #SF12 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Fiji 10 Ans - Cask #SF13 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Fiji 10 Ans - Cask #SF24 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Fiji 10 Ans - Cask #SF32 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Fiji 11 Ans - Cask #SF15 - 2004 (South Pacific),Compagnie des indes,France,70.0,66.8,Vieux
+Fiji 13 Ans - Cask #FSP7 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Fiji 13 Ans - Cask #FSP32 - 2004 (South Pacific),Compagnie des indes,France,70.0,44.0,Vieux
+Florida 13 Ans - Cask #FWSC1 - 2004,Compagnie des indes,France,70.0,45.0,Vieux
+Florida 13 Ans - Cask #FWSC2 - 2004,Compagnie des indes,France,70.0,45.0,Vieux
+Spiced,Admiral vernon's old j,Angleterre,70.0,35.0,Spiced
+Florida 14 Ans - Cask #FWH21,Compagnie des indes,France,70.0,44.0,Vieux
+Florida 14 Ans - Cask #FWH22,Compagnie des indes,France,70.0,44.0,Vieux
+Guadeloupe 16 Ans - Cask #GM21 - 1998 (Damoiseau),Compagnie des indes,France,70.0,43.0,Vieux
+Guadeloupe 16 Ans - Cask #GM32 - 1998 (Damoiseau),Compagnie des indes,France,70.0,43.0,Vieux
+Guadeloupe 16 Ans - Cask #CG1704 - 1998 (Damoiseau),Compagnie des indes,France,70.0,43.0,Vieux
+Guadeloupe 16 Ans - Cask #CG91 - 1998 (Damoiseau),Compagnie des indes,France,70.0,43.0,Vieux
+Guadeloupe 17 Ans - Cask #CG14 - 1998 (Damoiseau),Compagnie des indes,France,70.0,43.0,Vieux
+Guadeloupe 20 Ans - Cask #PLG79 - 1998 (Pere Labat),Compagnie des indes,France,70.0,43.1,Vieux
+Guatemala 9 Ans - Cask #GDS13 - 2007 (Darsa),Compagnie des indes,France,70.0,43.0,Vieux
+Guatemala 9 Ans - Cask #GDS17 - 2007 (Darsa),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 8 Ans - Cask #GPW50 - 2010 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 8 Ans - Cask #GPW51 - 2010 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 8 Ans - Cask #GPW52 - 2010 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 10 Ans - Cask #MPM18 - 2005 (Diamond),Compagnie des indes,France,70.0,57.5,Vieux
+Guyana 10 Ans - Cask #MPM75 - 2005 (Diamond) - Cask Strength,Compagnie des indes,France,70.0,58.0,Vieux
+Guyana 10 Ans - Cask #GPMVB21 - 2008,Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 12 Ans - Cask #MSG16 - 2003 (Diamond),Compagnie des indes,France,70.0,45.0,Vieux
+Guyana 12 Ans - Cask #MSG17 - 2003 (Diamond),Compagnie des indes,France,70.0,45.0,Vieux
+Guyana 13 Ans - Cask #MPM63 - 2002 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 13 Ans - Cask #WPM35 - 2002 (Diamond),Compagnie des indes,France,70.0,58.0,Vieux
+Guyana 13 Ans - Cask #WPM36 - 2002 (Diamond),Compagnie des indes,France,70.0,59.0,Vieux
+Guyana 14 Ans - Cask #GDD40 - 2003 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 14 Ans - Cask #GDD45 - 2003 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 14 Ans - Cask #GDD46 - 2003 (Diamond),Compagnie des indes,France,70.0,43.0,Vieux
+Guyana 21 Ans - Cask #GU4 - 1993 (Uitvlugt) - Cask Strength,Compagnie des indes,France,70.0,56.0,Vieux
+Guyana 24 Ans - Cask #MEV04 - 1990 (Enmore) - Cask Strength,Compagnie des indes,France,70.0,58.1,Vieux
+Guyana 27 Ans - Cask #MEC7 - 1988 (Enmore),Compagnie des indes,France,70.0,52.7,Vieux
+Guyana 29 Ans - Cask #GEN2 - 1988 (Enmore) - Cask Strength,Compagnie des indes,France,70.0,48.0,Vieux
+Haiti 11 Ans - Cask #BMH18 - 2004 (Barbancourt),Compagnie des indes,France,70.0,43.0,Vieux
+Haiti 11 Ans - Cask #BMH32 - 2004 (Barbancourt) - Cask Strength,Compagnie des indes,France,70.0,59.4,Vieux
+Indonesia 10 Ans - Cask #SB1 - 2004,Compagnie des indes,France,70.0,43.0,Vieux
+Indonesia 10 Ans - Cask #SB2 - 2004,Compagnie des indes,France,70.0,43.0,Vieux
+Indonesia 10 Ans - Cask #SB8 - 2004,Compagnie des indes,France,70.0,43.0,Vieux
+Indonesia 10 Ans - Cask #SB22 - 2004,Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 5 Ans - Navy Strength,Compagnie des indes,France,70.0,57.0,Vieux
+Jamaica 7 Ans - Cask #WP4 - 2007 (Worthy Park),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 7 Ans - Cask #WP8 - 2007 (Worthy Park),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 7 Ans - Cask #WP27 - 2007 (Worthy Park),Compagnie des indes,France,70.0,53.0,Vieux
+Jamaica 7 Ans - Cask #WP31 - 2007 (Worthy Park),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 7 Ans - Cask #WP42 - 2007 (Worthy Park),Compagnie des indes,France,70.0,53.0,Vieux
+Jamaica 7 Ans - Cask #WP52 - 2007 (Worthy Park) - Cask Stength,Compagnie des indes,France,70.0,53.0,Vieux
+Jamaica 8 Ans - Cask #SWP4 - 2007 (Worthy Park),Compagnie des indes,France,70.0,45.0,Vieux
+Jamaica 8 Ans - Cask #WP22 - 2007 (Worthy Park),Compagnie des indes,France,70.0,54.9,Vieux
+Jamaica 8 Ans - Cask #WP29 - 2007 (Worthy Park),Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 9 Ans - Cask #JHJ2 - 2009 (Hampden),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 9 Ans - Cask #JHJ15 - 2009 (Hampden) - High Proof,Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 9 Ans - Cask #JHJ20 - 2009 (Hampden),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 10 Ans - Cask #JBM13 - 2008 - Cask Strength,Compagnie des indes,France,70.0,57.9,Vieux
+Jamaica 10 Ans - Cask #JBM47 - 2008,Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 11 Ans - Cask #JCL25 - 2007 (Monymusk),Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 11 Ans - Cask #JCL78 - 2007 (Monymusk),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 11 Ans - Cask #JCL79 - 2007 (Monymusk),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 11 Ans - Cask #JCL80 - 2007 (Monymusk),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 11 Ans - Cask #JWMP31 - 2007 (Bar 1802 Monte Cristo),Compagnie des indes,France,70.0,51.4,Vieux
+Jamaica 12 Ans - Cask #JLP2 - 2003 (Long Pond),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 12 Ans - Cask #JLP3 - 2003 (Long Pond),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 12 Ans - Cask #JLP6 - 2003 (Long Pond),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 12 Ans - Cask #JNY17 - 2005 (New Yarmouth),Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 12 Ans - Cask #JNY20 - 2005 (New Yarmouth),Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 13 Ans - Cask #JNY15 - 2005 (New Yarmouth),Compagnie des indes,France,70.0,55.0,Vieux
+Jamaica 14 Ans - Cask #HP98 - 2000 (Hampden) - Cask Strength,Compagnie des indes,France,70.0,58.0,Vieux
+Jamaica 15 Ans - Cask #JH10 - 2000 (Hampden),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 15 Ans - Cask #JH46 - 2000 (Hampden),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 15 Ans - Cask #JH53 - 2000 (Hampden),Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 16 Ans - Cask #JHPF01 - 2000 (Hampden),Compagnie des indes,France,70.0,44.0,Vieux
+Jamaica 24 Ans - Cask #JHPE3 - 1992 (Hampden) - Cask Strength,Compagnie des indes,France,70.0,59.8,Vieux
+Jamaica 33 Ans (Hampden) - Carafe - Cask Strength,Compagnie des indes,France,70.0,54.1,Vieux
+Kaiman,Compagnie des indes,France,70.0,46.0,Vieux
+Latino 5 Ans - Finish Vosne-Romanee - Cask #VR1,Compagnie des indes,France,70.0,46.0,Vieux
+Martinique 11 Ans - Cask #MAR10 - 2008 (Simon),Compagnie des indes,France,70.0,42.0,Vieux
+Martinique 11 Ans - Cask #MAR11 - 2008 (Simon),Compagnie des indes,France,70.0,42.0,Vieux
+Martinique 13 Ans - Cask #MA56 - 2002 (Dillon),Compagnie des indes,France,70.0,44.0,Vieux
+Martinique 13 Ans - Cask #MA67 - 2002 (Dillon),Compagnie des indes,France,70.0,44.0,Vieux
+Nicaragua 11 Ans - Cask #SN18 - 2004,Compagnie des indes,France,70.0,69.1,Vieux
+Oktoberum,Compagnie des indes,France,70.0,46.0,Vieux
+Panama 9 Ans - Cask #PSC8 - 2008 - Cask Strength,Compagnie des indes,France,70.0,60.9,Vieux
+Panama 9 Ans - Cask #PSC77 - 2008,Compagnie des indes,France,70.0,43.0,Vieux
+Panama 11 Ans - Cask #MRS255 - 2004 - Cask Strength,Compagnie des indes,France,70.0,60.0,Vieux
+Tiki Fire Spiced Rum - 151 Proof (Persian Lime & Smooth Vanilla),Admiral vernon's old j,Angleterre,70.0,75.5,Spiced
+Panama 11 Ans - Cask #MRS263 - 2004,Compagnie des indes,France,70.0,44.0,Vieux
+Panama 11 Ans - Cask #MRS322 - 2004,Compagnie des indes,France,70.0,44.0,Vieux
+Panama 12 Ans - Cask #PMD43 - 2004,Compagnie des indes,France,70.0,61.5,Vieux
+Panama 12 Ans - Cask #PMD83 - 2004,Compagnie des indes,France,70.0,45.0,Vieux
+St. Lucia 13 Ans - Cask #SLD41 - 2002,Compagnie des indes,France,70.0,43.0,Vieux
+St. Lucia 13 Ans - Cask #SLD46 - 2002 - Cask Strength,Compagnie des indes,France,70.0,56.3,Vieux
+St. Lucia 13 Ans - Cask #SLD84 - 2002,Compagnie des indes,France,70.0,43.0,Vieux
+Tricorne,Compagnie des indes,France,70.0,43.0,Vieux
+Trinidad 13 Ans - Cask #TTD35 - 2005 (TDL),Compagnie des indes,France,70.0,45.0,Vieux
+Trinidad 15 Ans - Cask #TTM15 - 2003 (TDL),Compagnie des indes,France,70.0,44.0,Vieux
+Trinidad 15 Ans - Cask #TTM29 - 2003 (TDL),Compagnie des indes,France,70.0,44.0,Vieux
+Trinidad 16 Ans - Cask #TT84 - 2000 (TDL) - Cask Strength,Compagnie des indes,France,70.0,63.6,Vieux
+Trinidad 16 Ans - Cask #TT96 - 2000 (TDL),Compagnie des indes,France,70.0,63.0,Vieux
+Trinidad 16 Ans - Cask #TLBF15 - 2003 (TDL),Compagnie des indes,France,70.0,63.5,Vieux
+Trinidad 16 Ans - Cask #TLBF16 - 2003 (TDL),Compagnie des indes,France,70.0,63.5,Vieux
+Trinidad 18 Ans - Cask #SC2 - 1996 (Caroni),Compagnie des indes,France,70.0,43.0,Vieux
+Trinidad 18 Ans - Cask #SC3 - 1996 (Caroni),Compagnie des indes,France,70.0,43.0,Vieux
+Trinidad 18 Ans - Cask #SCT9 - 1996 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,61.0,Vieux
+Trinidad 19 Ans - Cask #SC1 - 1996 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,53.2,Vieux
+Trinidad 20 Ans - Cask #TTCR14 - 1998 (Caroni),Compagnie des indes,France,70.0,59.8,Vieux
+Trinidad 21 Ans - Cask #SC707 - 1994 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,57.8,Vieux
+Trinidad 22 Ans - Cask #TC4 - 1993 (Caroni),Compagnie des indes,France,70.0,48.0,Vieux
+Trinidad 22 Ans - Cask #TC6 - 1993 (Caroni),Compagnie des indes,France,70.0,48.0,Vieux
+Trinidad 23 Ans - Cask #TCC3 - 1993 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,53.1,Vieux
+Trinidad 24 Ans - Cask #SC803 - 1991 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,56.3,Vieux
+Trinidad 26 Ans - Cask #TP8 - 1991 (Caroni) - Cask Strength,Compagnie des indes,France,70.0,56.2,Vieux
+Veneragua 13 Ans - Cask #SB4 - 2005,Compagnie des indes,France,70.0,45.0,Vieux
+Venezuela 12 Ans - Cask #VCA1 - 2006,Compagnie des indes,France,70.0,43.0,Vieux
+Venezuela 12 Ans - Cask #VCA3 - 2006,Compagnie des indes,France,70.0,43.0,Vieux
+Venezuela 12 Ans - Cask #VCA4 - 2006,Compagnie des indes,France,70.0,43.0,Vieux
+Venezuela 12 Ans - Cask #VCA5 - 2006 - Cask Strength,Compagnie des indes,France,70.0,58.0,Vieux
+Venezuela 14 Ans - Cask #??? - 2005,Compagnie des indes,France,70.0,43.0,Vieux
+Venezuela 14 Ans - Cask #VNT57 - 2005,Compagnie des indes,France,70.0,43.0,Vieux
+Venezuela 14 Ans - Cask #VNT61 - 2005,Compagnie des indes,France,70.0,43.0,Vieux
+West Indies 8 Ans,Compagnie des indes,France,70.0,40.0,Vieux
+Bielle 2005-2012,Comptoir des caraïbes,France,70.0,50.0,Vieux
+Bielle - Cuvee 2009 (Brut de Fût #101),La confrerie du rhum,France,70.0,52.3,Vieux
+Bielle - Cuvee 2009 (Brut de Fût #106),La confrerie du rhum,France,70.0,52.6,Vieux
+Bielle - Cuvee 2009 (Brut de Fût #107),La confrerie du rhum,France,70.0,52.1,Vieux
+Cuvee n°1 - Barbados 2000 (West Indies),La confrerie du rhum,France,70.0,43.0,Vieux
+Cuvee n°2 - Guadeloupe 1998 (Damoiseau),La confrerie du rhum,France,70.0,42.0,Vieux
+Fleur de Canne (Vieux) - Edition Speciale La Confrerie du Rhum,La confrerie du rhum,France,70.0,42.0,Vieux
+Arturo Makasare 2001-2016 (Edición Limitada),Corman collins rhums,Belgique,70.0,44.0,Vieux
+Arturo Makasare 23 Años,Corman collins rhums,Belgique,70.0,44.0,Vieux
+Arturo Makasare Finca Maroma,Corman collins rhums,Belgique,70.0,40.0,Vieux
+Rumbastic - 12 Years (Travellers),A dream of scotland,Belize,70.0,60.6,Vieux
+"Bellevue 1998 """"Flamme d'Or"""" 14 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Caroni 1999 """"Master Selection"""" 15 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Caroni 1999 """"Premium Cask"""" 16 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Caroni 1999 """"Old Reserve"""" 18 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Caroni 1999 """"XO"""" 20 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,47.0,Vieux
+"Chichigalpa 1995 """"Tres Vieux"""" 15 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Enmore 1990 """"Empereur"""" 28 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Foursquare 2000 """"Millenium Reserve"""" 6 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Foursquare 2007 """"Old Selection"""" 10 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Foursquare 2007 """"Old Reserve"""" 12 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,46.6,Vieux
+"Galion 2002 """"Grande Reserve"""" 8 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Hampden 1998 """"Golden Barrel"""" 16 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Hampden 1998 """"XO"""" 20 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Licorera 1998 """"Special Reserve"""" 8 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Arturo Makasare La Paquita,Corman collins rhums,Belgique,70.0,40.0,Vieux
+Arturo Makasare Trinidad 1997-2017 (Caroni),Corman collins rhums,Belgique,70.0,49.1,Vieux
+Dame Jeanne Collection 42°,Corman collins rhums,Belgique,70.0,42.0,Blanc
+Dame Jeanne Collection 44°,Corman collins rhums,Belgique,70.0,44.0,Blanc
+Hampden 1983-2019,Corman collins rhums,Belgique,70.0,55.3,Vieux
+Hampden 2001-2017,Corman collins rhums,Belgique,70.0,60.4,Vieux
+Navy Full Strength,Corman collins rhums,Belgique,70.0,52.3,Vieux
+Navy Light Strength,Corman collins rhums,Belgique,70.0,42.8,Vieux
+Panama 13 (2004),Corman collins rhums,Belgique,70.0,60.2,Vieux
+Rhum J. Bally 18,Corman collins rhums,Belgique,70.0,56.8,Vieux
+Trois Rivieres Cuvee Bele - Cask #22-4,Corman collins rhums,Belgique,70.0,52.3,Vieux
+Caroni 17 Years - Barrel #2944,Creative whisky company,Ecosse,70.0,50.0,Vieux
+"Sinob Caroni 1997 (Full Proof, Cask #73)",Creative whisky company,Ecosse,70.0,57.9,Vieux
+The James Dinnen Series - Caroni 1999,Creative whisky company,Ecosse,70.0,50.0,Vieux
+Rhum Savanna Grand Arôme - Monopole,Dumons gm & co.,Reunion,70.0,43.0,Vieux
+Barbados 1986-2012 (Cask #16) - West Indies,Duncan taylor,Ecosse,70.0,52.7,Vieux
+Barbados 2000-2012 (Cask #12) - Mount Gay,Duncan taylor,Ecosse,70.0,53.7,Vieux
+Barbados 2000-2016 (Cask #16) - West Indies,Duncan taylor,Ecosse,70.0,52.0,Vieux
+Brazil 1999-2016 (Cask #3) - Epris,Duncan taylor,Ecosse,70.0,47.5,Vieux
+Carribean Rum - Batch 1996,Duncan taylor,Ecosse,70.0,46.0,Vieux
+"Long Pond 1992 """"Imperial"""" 15 Years (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Carribean Rum - Batch 2001,Duncan taylor,Ecosse,70.0,46.0,Vieux
+Cuba 1998-2012 (Cask #78) - Sancti Spiritus,Duncan taylor,Ecosse,70.0,53.2,Vieux
+Fiji 2003-2013 (Cask #18) - South Pacific,Duncan taylor,Ecosse,70.0,54.8,Vieux
+Guadeloupe 1998-2012 (Cask #4) - Damoiseau,Duncan taylor,Ecosse,70.0,52.3,Vieux
+Guadeloupe 1998-2017 (Cask #33) - Damoiseau,Duncan taylor,Ecosse,70.0,52.8,Vieux
+Guadeloupe 1998-2014 (Cask #88) - Damoiseau,Duncan taylor,Ecosse,70.0,51.4,Vieux
+Guadeloupe 1998-2016 (Cask #94) - Damoiseau,Duncan taylor,Ecosse,70.0,52.2,Vieux
+Guatemala 2007-2016 (Cask #8) - Darsa,Duncan taylor,Ecosse,70.0,52.4,Vieux
+Guyana 1985-2012 (Cask #64) - Enmore,Duncan taylor,Ecosse,70.0,52.5,Vieux
+Guyana 1989-2012 (Cask #5) - Uitvlugt,Duncan taylor,Ecosse,70.0,54.9,Vieux
+Guyana 1997-2015 (Cask #11) - Uitvlugt,Duncan taylor,Ecosse,70.0,52.8,Vieux
+Guyana 1998-2014 (Cask #35) - Uitvlugt,Duncan taylor,Ecosse,70.0,52.7,Vieux
+Guyana 2002-2015 (Cask #131) - Diamond,Duncan taylor,Ecosse,70.0,53.4,Vieux
+Guyana 2003-2013 (Cask #72) - Diamond,Duncan taylor,Ecosse,70.0,54.4,Vieux
+Guyana 2003-2014 (Cask #71) - Diamond,Duncan taylor,Ecosse,70.0,56.7,Vieux
+Haiti 2004-2017 (Cask #59) - Barbancourt,Duncan taylor,Ecosse,70.0,54.4,Vieux
+Jamaica 1990-2012 (Cask #10) - Hampden,Duncan taylor,Ecosse,70.0,52.9,Vieux
+Jamaica 1997-2012 (Cask #3) - Monymusk,Duncan taylor,Ecosse,70.0,53.4,Vieux
+Jamaica 2000-2012 (Cask #122) - Hampden,Duncan taylor,Ecosse,70.0,53.1,Vieux
+Jamaica 2000-2014 (Cask #6) - Long Pond,Duncan taylor,Ecosse,70.0,54.6,Vieux
+Jamaica 2000-2014 (Cask #34) - Hampden,Duncan taylor,Ecosse,70.0,53.3,Vieux
+Jamaica 2000-2014 (Cask #50) - Hampden,Duncan taylor,Ecosse,70.0,52.7,Vieux
+Jamaica 2000-2016 (Cask #65) - Long Pond,Duncan taylor,Ecosse,70.0,51.9,Vieux
+Jamaica 2000-2017 (Cask #17) - Long Pond,Duncan taylor,Ecosse,70.0,54.1,Vieux
+Jamaica 2003-2014 (Cask #18) - Monymusk,Duncan taylor,Ecosse,70.0,53.5,Vieux
+Jamaica 2003-2016 (Cask #2) - Monymusk,Duncan taylor,Ecosse,70.0,52.1,Vieux
+Nicaragua 2004-2017 (Cask #9),Duncan taylor,Ecosse,70.0,55.4,Vieux
+Panama 1995-2012 (Cask #4) - Don Jose,Duncan taylor,Ecosse,70.0,54.4,Vieux
+St-Lucia 2002-2013 (Cask #5),Duncan taylor,Ecosse,70.0,52.6,Vieux
+St-Lucia 2002-2014 (Cask #6),Duncan taylor,Ecosse,70.0,54.2,Vieux
+N°6 - Guyana 23 Ans (Uitvlugt),Ekte,Danemark,70.0,57.7,Vieux
+Pungent & Geeky (PG),Ekte,Danemark,70.0,47.0,Vieux
+Spiced & Rich (SR),Ekte,Danemark,70.0,43.0,Spiced
+Barbancourt 2004 (Cask #BB 86),L'esprit,France,70.0,46.0,Vieux
+Barbancourt 2004 (Cask #BB 86) Cask Strength,L'esprit,France,70.0,66.2,Vieux
+Bellevue 1998 (Cask #3),L'esprit,France,70.0,46.0,Vieux
+Bellevue 1998 (Cask #3) Cask Strength,L'esprit,France,70.0,58.0,Vieux
+Bellevue 1998 (Cask #BB 44),L'esprit,France,70.0,46.0,Vieux
+Bellevue 1998 (Cask #BB 44) Cask Strength,L'esprit,France,70.0,57.5,Vieux
+Beenleigh - Still Strength,L'esprit,France,70.0,78.1,Vieux
+Black Rock 2000 (Cask #2) - West Indies,L'esprit,France,70.0,46.0,Vieux
+Black Rock 2000 (Cask #2) - West Indies - Cask Strength,L'esprit,France,70.0,57.7,Vieux
+"Black Rock 82,3° (West Indies)",L'esprit,France,70.0,82.3,Vieux
+Caroni 1996 (Cask #BB 4),L'esprit,France,70.0,64.3,Vieux
+Chichigalpa 2002 (Cask #BB 5),L'esprit,France,70.0,46.0,Vieux
+Chichigalpa 2002 (Cask #BB 5) - Cask Strength,L'esprit,France,70.0,63.1,Vieux
+Diamond MPM 85° (Cuvee Edgar Second Edition),L'esprit,France,70.0,85.0,Vieux
+Diamond 2003 (Cask #58),L'esprit,France,70.0,46.0,Vieux
+Diamond 2005 (Cask #BB 114) - Cask Strength,L'esprit,France,70.0,71.4,Vieux
+Don Jose 2000 (Cask #2),L'esprit,France,70.0,46.0,Vieux
+Don Jose 2000 (Cask #2) - Cask Strength,L'esprit,France,70.0,57.8,Vieux
+A Panama Distillery 2004 (Cask #BB 71) - Cask Strength,L'esprit,France,70.0,62.6,Vieux
+Epris 1999 (Cask #52),L'esprit,France,70.0,47.7,Vieux
+Foursquare 2002 (Cask #BB 15) - Cask Strength,L'esprit,France,70.0,56.4,Vieux
+Foursquare 2007 (Cask #BB 10) - Cask Strength,L'esprit,France,70.0,65.3,Vieux
+La Favorite - Cuvee Ernest First Edition (V&B),L'esprit,France,70.0,73.0,Vieux
+Monymusk 2007 (Cask #BB 11) - Cask Strength,L'esprit,France,70.0,67.0,Vieux
+"Port Mourant Blanc 84,7°",L'esprit,France,70.0,84.7,Blanc
+Port Mourant 2005 (Cask #BB 20 B) - Cask Strength,L'esprit,France,70.0,59.9,Vieux
+"Long Pond 1992 """"Imperial"""" 18 Years (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Port Mourant 2005 (Cask #BB 22) - Cask Strength,L'esprit,France,70.0,60.0,Vieux
+South Pacific 83° (Still Strength),L'esprit,France,70.0,83.0,Vieux
+Travellers 2005 (Cask #BB  11),L'esprit,France,70.0,46.0,Vieux
+Travellers 2005 (Cask #BB  11) - Cask Strength,L'esprit,France,70.0,66.1,Vieux
+Travellers 2007  (Cask #BB  36) - Cuvee 10e Anniversaire Cask Strength,L'esprit,France,70.0,66.1,Vieux
+Worthy Park 2007 (Cask #BB 9) - Cask Strength,L'esprit,France,70.0,56.9,Vieux
+Worthy Park 2007 (Cask #BB 10) - Cask Strength,L'esprit,France,70.0,55.9,Vieux
+Worthy Park 2007 (Cask #49) - Cask Strength,L'esprit,France,70.0,55.3,Vieux
+Carribean Smooth 1816 (Dark),Estaro,Pays-Bas,70.0,37.5,Vieux
+Carribean Smooth 1816 (Blanc),Estaro,Pays-Bas,70.0,37.5,Blanc
+Barbade Foursquare - MBFS 2006-2017,Excellence rhum,France,70.0,62.8,Vieux
+Barbade Foursquare - Cask Strength Fût #14-  2007-2018,Excellence rhum,France,70.0,64.4,Vieux
+Fidji South Pacific SMF Cask Strength 2004-2018,Excellence rhum,France,70.0,65.5,Vieux
+Guadeloupe Bellevue - SFGB 1998-2017,Excellence rhum,France,70.0,59.9,Vieux
+Guyana Diamond - MPM 2005-2017,Excellence rhum,France,70.0,60.1,Vieux
+Guyana Port Mourant - MPM 2008-2018,Excellence rhum,France,70.0,62.2,Vieux
+Jamaique Hampden - LROK 2000-2017,Excellence rhum,France,70.0,54.6,Vieux
+Jamaique Worthy Park - WPL 2007-2018,Excellence rhum,France,70.0,57.0,Vieux
+Maison La Mauny E15 - Cask Strength 2015-2019,Excellence rhum,France,70.0,62.8,Vieux
+Marie Galante Bielle YQM - Cask Strength 2012-2019,Excellence rhum,France,70.0,59.2,Vieux
+Grenada XO Rum (Selection A'Rhum 2019) - Batch #1,Explorateur du goût,France,70.0,52.0,Vieux
+Belize - Aged 5 Years,Fair,France,70.0,40.0,Vieux
+Belize - Aged 8 Years,Fair,France,70.0,53.8,Vieux
+Belize - Aged 8 Years - Single Cask A'Rhum,Fair,France,70.0,62.0,Vieux
+Belize - Aged 9 Years,Fair,France,70.0,41.0,Vieux
+Belize - Aged 10 Years,Fair,France,70.0,40.0,Vieux
+Belize - Aged 10 Years - Fullproof,Fair,France,70.0,66.5,Vieux
+Belize - Aged 11 Years,Fair,France,70.0,50.7,Vieux
+Belize - XO,Fair,France,70.0,40.0,Vieux
+Belize - XO Finish Acacia,Fair,France,70.0,40.0,Vieux
+Belize - XO Finish Acacia Gold Label,Fair,France,70.0,46.0,Vieux
+Belize - XO Finish Chataignier,Fair,France,70.0,43.0,Vieux
+Belize - XO Finish Chestnut,Fair,France,70.0,43.0,Vieux
+Jamaica - Aged 5 Years (Worthy Park),Fair,France,70.0,40.0,Vieux
+Muscovado 2016,Fair,France,70.0,55.0,Vieux
+Muscovado 2017,Fair,France,70.0,55.0,Vieux
+Paraguay XO,Fair,France,70.0,40.0,Vieux
+Salvador XO,Fair,France,70.0,44.0,Vieux
+Influences n°2 - Australie-Jamaique,Famille ricci,France,70.0,46.0,Vieux
+Influences n°3 - Guyana-Guatemala,Famille ricci,France,70.0,46.0,Vieux
+Ambre,Ferroni,France,70.0,40.0,Ambre
+Australie 2013,Ferroni,France,50.0,60.4,Vieux
+Australie Maurice Barbade - La Table du Loup,Ferroni,France,50.0,59.2,Vieux
+Barbade 2007 (Foursquare),Ferroni,France,50.0,57.5,Vieux
+Barbade 2009 (Foursquare),Ferroni,France,50.0,63.5,Vieux
+"Port Morant 1990 """"Diamonds of Demerara"""" 25 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Belize 2007 (Travellers),Ferroni,France,50.0,42.0,Vieux
+Belize 2007 - Cask Strength (Travellers),Ferroni,France,50.0,61.0,Vieux
+Boucan d'Enfer,Ferroni,France,70.0,50.0,Ambre
+Cuba 2011,Ferroni,France,50.0,58.5,Vieux
+Cuvee La Baffe de l'Ours,Ferroni,France,50.0,61.2,Vieux
+Fresh Cane,Ferroni,France,70.0,56.0,Blanc
+3 Latitudes Gwada 1998,Ferroni,France,50.0,44.0,Vieux
+Gwada 1998 - Rasteau Finish,Ferroni,France,50.0,56.5,Vieux
+Honey Rum,Ferroni,France,70.0,37.5,Spiced
+Issan Flower 2015,Ferroni,France,50.0,59.2,Vieux
+"Jamaique 2010 (Worthy Park) - (63,4°)",Ferroni,France,50.0,63.4,Vieux
+"Jamaique 2010 (Worthy Park) - (65,6°)",Ferroni,France,50.0,65.6,Vieux
+"Jamaique 2010 (Worthy Park) - (66,2°)",Ferroni,France,50.0,66.2,Vieux
+La Dame Jeanne - Pur Jus de Canne (56°),Ferroni,France,70.0,56.0,Blanc
+La Dame Jeanne - Pur Jus de Canne (57°) - Chamarel,Ferroni,France,70.0,57.0,Blanc
+La Dame Jeanne 2 - Melasse Power (57°),Ferroni,France,70.0,57.0,Blanc
+La Dame Jeanne 3 - Canne Rouge (57°),Ferroni,France,70.0,57.0,Blanc
+La Dame Jeanne 4 - L'Atlantique,Ferroni,France,70.0,57.0,Blanc
+La Dame Jeanne 5,Ferroni,France,70.0,57.0,Blanc
+La Dame Jeanne - La Table du Loup,Ferroni,France,70.0,57.0,Blanc
+Le Boucanier (Rhum Fume),Ferroni,France,70.0,40.0,Ambre
+"Sanctus Spiritus 1998 """"Old Vintage Selection"""" 16 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Le Merveilleux Farlernum,Ferroni,France,70.0,19.0,Spiced
+Les Ciseaux (Saint-Maurice),Ferroni,France,70.0,50.0,Vieux
+Overproof (73°),Ferroni,France,70.0,73.0,Vieux
+Overproof - Batch #2 (74°),Ferroni,France,70.0,74.0,Vieux
+Rose Rhum Blend,Ferroni,France,70.0,40.0,Vieux
+Serie des Lumieres - Guildive 1800,Ferroni,France,50.0,40.0,Vieux
+Serie des Lumieres - Guildive 1800 - Batch #2,Ferroni,France,50.0,40.0,Vieux
+Serie des Lumieres - Ratafia de Marseille,Ferroni,France,50.0,35.0,Vieux
+Terres de Pur Jus,Ferroni,France,50.0,63.2,Vieux
+Torna Viagem,Ferroni,France,50.0,64.0,Vieux
+Trinidad 2010,Ferroni,France,50.0,53.0,Vieux
+Barbados MBFS 2005,Flensburg,Allemagne,70.0,62.9,Vieux
+Guyana MEC 1992,Flensburg,Allemagne,70.0,59.8,Vieux
+Caroni Aged 16 Years (Cask #2944),Gleann mór spirits company,Ecosse,70.0,50.2,Vieux
+Demerara Vintage 1974 (Casks #102 & #103),Gordon & macphail,Ecosse,70.0,50.0,Vieux
+Jamaica Vintage 1941 (Cask #76) - Long Pond,Gordon & macphail,Ecosse,70.0,50.0,Vieux
+Barbados - Aged 17 Years - Rockley Still (1986) - West Indies,High spirits collection,Italie,70.0,46.0,Vieux
+Demerara - Aged 13 Years - Port Mourant (1990) - Uitvlugt,High spirits collection,Italie,70.0,46.0,Vieux
+Demerara - 1971 (Enmore),High spirits collection,Italie,70.0,54.0,Vieux
+Demerara - 1974 (Enmore),High spirits collection,Italie,70.0,54.0,Vieux
+Demerara - 1974 (Enmore),High spirits collection,Italie,70.0,54.0,Vieux
+Demerara - 1975 (Uitvlugt),High spirits collection,Italie,70.0,52.0,Vieux
+Trinidad - Aged 12 Years - Caroni (1991),High spirits collection,Italie,70.0,46.0,Vieux
+Trinidad - Aged 15 Years - Caroni (1997),High spirits collection,Italie,70.0,46.0,Vieux
+Trinidad - Aged 18 Years - Caroni (1998),High spirits collection,Italie,70.0,46.0,Vieux
+Trinidad - Aged 21 Years - Caroni (1991) 46°,High spirits collection,Italie,70.0,46.0,Vieux
+Trinidad - Aged 21 Years - Caroni (1991) 58°,High spirits collection,Italie,70.0,58.0,Vieux
+Guyana Demerara Rum - Versailles 11 Years,Holsons,Royaume-Uni,70.0,46.0,Vieux
+Barbados 2000-2013 (Mount Gay) - Cask #IDR004,Isla del ron,Allemagne,70.0,61.6,Vieux
+Barbados 2000-2016 (Mount Gay) - Cask #IDR014,Isla del ron,Allemagne,70.0,57.8,Vieux
+Belize 2005-2014 (Travellers) - Cask #IDR009,Isla del ron,Allemagne,70.0,66.4,Vieux
+Brazil 1999-2017 (Epris) - Cask #IDR016,Isla del ron,Allemagne,70.0,47.1,Vieux
+Cuba 1998 (Sancti Spiritus) - Cask #IDR005,Isla del ron,Allemagne,70.0,58.5,Vieux
+Cuba 1998-2016 (Sancti Spiritus) - Cask #IDR013,Isla del ron,Allemagne,70.0,59.3,Vieux
+Dominican Republic 2009-2018 - Cask #IDR021,Isla del ron,Allemagne,70.0,64.5,Vieux
+Guadeloupe 1998-2014 (Damoiseau) - Cask #IDR011,Isla del ron,Allemagne,70.0,52.6,Vieux
+Guadeloupe 2008-2018 (Damoiseau) - Cask #IDR022,Isla del ron,Allemagne,70.0,51.9,Vieux
+Guyana 1988-2012 - Cask #IDR003,Isla del ron,Allemagne,70.0,52.6,Vieux
+Guyana 1998-2013 (Uitvlugt) - Cask #IDR007,Isla del ron,Allemagne,70.0,53.9,Vieux
+Jamaica 1982-2012 - Cask #IDR001,Isla del ron,Allemagne,70.0,56.2,Vieux
+Jamaica 2000-2014 (Long Pond) - Cask #IDR010,Isla del ron,Allemagne,70.0,55.2,Vieux
+Jamaica 2011-2018 (Worthy Park) - Cask #IDR018,Isla del ron,Allemagne,70.0,51.9,Vieux
+Martinique 2005-2017 (Clement) - Cask #IDR017,Isla del ron,Allemagne,70.0,53.2,Vieux
+Nicaragua 2001-2013 - Cask #IDR006,Isla del ron,Allemagne,70.0,63.2,Vieux
+Nicaragua 2007-2018 - Cask #IDR019,Isla del ron,Allemagne,70.0,47.8,Vieux
+Panama 1995-2012 (Don Jose) - Cask #IDR002,Isla del ron,Allemagne,70.0,52.9,Vieux
+Panama 2003-2015 (Don Jose) - Cask #IDR012,Isla del ron,Allemagne,70.0,52.6,Vieux
+Trinidad 1989 (Caroni) - Cask #IDR015,Isla del ron,Allemagne,70.0,52.5,Vieux
+Trinidad 1997-2018 (Caroni) - Cask #IDR020,Isla del ron,Allemagne,70.0,52.5,Vieux
+Trinidad 1997-2013 (Caroni) - Cask #IDR008,Isla del ron,Allemagne,70.0,54.7,Vieux
+Gold,Isla del ron,Allemagne,70.0,42.5,Ambre
+Silver,Isla del ron,Allemagne,70.0,42.5,Ambre
+Anacaona - Santo Domingo Signature (Gran Reserva Rum),Island signature,France,70.0,40.0,Vieux
+Tierra Madre - Guatemala Rum,Island signature,France,70.0,40.0,Vieux
+Yellow Snake - Jamaican Amber Rum,Island signature,France,70.0,40.0,Ambre
+Caroni 1997,Jean boyer,France,70.0,40.0,Vieux
+Caroni 1998,Jean boyer,France,70.0,40.0,Vieux
+Barbados Foursquare - 9 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Barbados Foursquare - 14 Years (2001),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Belize Travellers - 9 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Belize Travellers - 10 Years (2005),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Belize Travellers - 11 Years (2005),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Blended Carribean Rum,Kill devil rum,Ecosse,70.0,40.0,Vieux
+Blended Carribean Rum - Dark Overproof,Kill devil rum,Ecosse,70.0,57.0,Vieux
+Cuba Sancti Spiritus - 17 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Cuba Sancti Spiritus - 17 Years (1999),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Cuba Sancti Spiritus - 18 Years (1999),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Fiji South Pacific - 14 Years,Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guadeloupe Bellevue - 18 Years (1998),Kill devil rum,Ecosse,70.0,58.2,Vieux
+Guadeloupe Bellevue - 20 Years (1998),Kill devil rum,Ecosse,70.0,58.6,Vieux
+Guatemala Darsa - 8 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guatemala Darsa - 9 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guatemala Darsa - 10 Years (2008),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Diamond - 8 Years (2008),Kill devil rum,Ecosse,70.0,59.3,Vieux
+Guyana Diamond - 10 Years (2005),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Diamond - 11 Years (2004),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Diamond - 12 Years (2004),Kill devil rum,Ecosse,70.0,63.9,Vieux
+"Guyana Diamond - 12 Years (2004) - 61,1°",Kill devil rum,Ecosse,70.0,61.1,Vieux
+"Guyana Diamond - 12 Years (2004) - 62,7°",Kill devil rum,Ecosse,70.0,62.7,Vieux
+Guyana Diamond - 15 Years (2001) - 46°,Kill devil rum,Ecosse,70.0,46.0,Vieux
+"Guyana Diamond - 15 Years (2001) - 57,1°",Kill devil rum,Ecosse,70.0,57.1,Vieux
+Guyana Diamond - 15 Years (2001) - 61°,Kill devil rum,Ecosse,70.0,61.0,Vieux
+Guyana Diamond - 18 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Enmore - 24 Years (1992),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Enmore - 25 Years (1990),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Enmore - 25 Years (1992),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Uitvlugt - 15 Years (1999),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Uitvlugt - 16 Years (1999),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Uitvlugt - 17 Years (1999),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Uitvlugt - 18 Years (1997) - Cask #HL15048,Kill devil rum,Ecosse,70.0,46.0,Vieux
+Guyana Uitvlugt - 18 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Hampden - 10 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Hampden - 16 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Hampden - 17 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Hampden - 18 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Hampden - 24 Years (1992),Kill devil rum,Ecosse,70.0,62.0,Vieux
+Jamaica Hampden - 35 Years (1983),Kill devil rum,Ecosse,70.0,58.1,Vieux
+Jamaica Long Pond - 15 Years (2000),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Monymusk - 9 Years (2007),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Monymusk - 12 Years (2003),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Jamaica Worthy Park - 10 Years (2006),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Nicaragua - 17 Years (1999),Kill devil rum,Ecosse,70.0,59.5,Vieux
+Nicaragua - 18 Years (1999),Kill devil rum,Ecosse,70.0,60.2,Vieux
+Panama - 10 Years (2004),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Panama - 11 Years (2006),Kill devil rum,Ecosse,70.0,61.5,Vieux
+"Trinidad Distillers 2000 """"Millenium Reserve"""" 6 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Westerhall 1998 """"XO"""" 9 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+"Westerhall 1998 """"XO"""" 14 Years Old (Rare Single Cask)",Alambic classique,Allemagne,70.0,45.0,Vieux
+Austrian Empire Navy Rum - Reserva 1863,Albert michler,Angleterre,70.0,40.0,Vieux
+Austrian Empire Navy Rum - Solera 18,Albert michler,Angleterre,70.0,40.0,Vieux
+Austrian Empire Navy Rum - Solera 21,Albert michler,Angleterre,70.0,40.0,Vieux
+Austrian Empire Navy Rum - Solera 25,Albert michler,Angleterre,70.0,40.0,Vieux
+Mischler's Rum - 100% Fine Jamaican (Dark Rum),Albert michler,Angleterre,70.0,40.0,Vieux
+Trinidad - 9 Years (2009) - Fernandes,Kill devil rum,Ecosse,70.0,46.0,Vieux
+Trinidad - 13 Years (2003),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Trinidad - 13 Years (2003) - Fullproof,Kill devil rum,Ecosse,70.0,63.1,Vieux
+Trinidad - 23 Years (1991) - TDL,Kill devil rum,Ecosse,70.0,46.0,Vieux
+Trinidad - 24 Years (1991) - TDL,Kill devil rum,Ecosse,70.0,46.0,Vieux
+Trinidad Caroni - 17 Years (1998),Kill devil rum,Ecosse,70.0,63.1,Vieux
+"Trinidad Caroni - 18 Years (1998) - 63,2°",Kill devil rum,Ecosse,70.0,63.2,Vieux
+"Trinidad Caroni - 18 Years (1998) - 65,5° #1",Kill devil rum,Ecosse,70.0,65.5,Vieux
+"Trinidad Caroni - 18 Years (1998) - 65,5° #2",Kill devil rum,Ecosse,70.0,65.5,Vieux
+Trinidad Caroni - 20 Years (1998),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Venezuela C.A.C.S.A. - 14 Years (2004),Kill devil rum,Ecosse,70.0,46.0,Vieux
+Single Cask Demerara Rum (1974),Kingsbury,Ecosse,70.0,65.7,Vieux
+C.A.D.C. Venezuela - Cask #7,Kintra whisky,Pays-Bas,70.0,53.8,Vieux
+Caroni 19Y - 1998-2017 - Cask #6,Kintra whisky,Pays-Bas,70.0,55.1,Vieux
+Caroni - 1999-2013,Kintra whisky,Pays-Bas,70.0,56.0,Vieux
+Diamond 13Y,Kintra whisky,Pays-Bas,70.0,53.1,Vieux
+Enmore 27Y - 1990-2017 - Cask #34,Kintra whisky,Pays-Bas,70.0,53.7,Vieux
+Enmore 27Y,Kintra whisky,Pays-Bas,70.0,55.7,Vieux
+Flor De Caña 18Y - 1999-2017 - Cask #48,Kintra whisky,Pays-Bas,70.0,56.5,Vieux
+Foursquare 12Y,Kintra whisky,Pays-Bas,70.0,56.5,Vieux
+Foursquare 12Y - 2006-2018 - Cask #118,Kintra whisky,Pays-Bas,70.0,63.3,Vieux
+Hampden 8Y,Kintra whisky,Pays-Bas,70.0,56.5,Vieux
+Monymusk 11Y,Kintra whisky,Pays-Bas,70.0,52.5,Vieux
+Monymusk 11Y - 2007-2018 - Cask #85,Kintra whisky,Pays-Bas,70.0,52.2,Vieux
+Monymusk 14Y,Kintra whisky,Pays-Bas,70.0,56.2,Vieux
+Mount Gay 18Y - Confidential Cask #1,Kintra whisky,Pays-Bas,70.0,55.6,Vieux
+Port Mourant 12Y,Kintra whisky,Pays-Bas,70.0,63.3,Vieux
+Port Mourant 12Y - 2005-2018 - Cask #96,Kintra whisky,Pays-Bas,70.0,55.9,Vieux
+The Taylor of Panama - 13Y,Kintra whisky,Pays-Bas,70.0,59.3,Vieux
+Travellers 9Y - 2007-2017 - Cask #44,Kintra whisky,Pays-Bas,70.0,66.4,Vieux
+N°1 - 2004 Single Barrel,La casa del rum,Italie,70.0,47.2,Vieux
+N°2 - Barbados (Over Proof Rum),La casa del rum,Italie,70.0,65.0,Vieux
+"N°3 - Nicaragua, Trinidad, Guatemala ",La casa del rum,Italie,70.0,50.0,Vieux
+"N°4 - Jamaica, Barbados, Trinidad",La casa del rum,Italie,70.0,40.0,Vieux
+"St Quentin - Martinique, Jamaica, Barbados, Trinidad",La casa del rum,Italie,70.0,40.0,Vieux
+St Quentin Unaged (Martinique - La Favorite),La casa del rum,Italie,70.0,42.0,Vieux
+Batch #2 - Guatemala (Botran),La maison du rhum,France,70.0,55.0,Vieux
+Batch #2 - Ile Maurice (Chamarel),La maison du rhum,France,70.0,43.0,Vieux
+Batch #2 - Madagascar (Dzama),La maison du rhum,France,70.0,42.0,Vieux
+Batch #2 - Perou (Millonario),La maison du rhum,France,70.0,45.0,Vieux
+Batch #2 - Reunion (Riviere du Mât),La maison du rhum,France,70.0,45.0,Vieux
+Batch #2 - Sainte Lucie (St Lucia Distillers),La maison du rhum,France,70.0,45.0,Vieux
+Batch #2 - Trinidad & Tobago (Angostura),La maison du rhum,France,70.0,44.0,Vieux
+Batch #2 - Venezuela (Diplomatico),La maison du rhum,France,70.0,47.0,Vieux
+Batch #3 - Colombie (Hacienda Coloma),La maison du rhum,France,70.0,46.0,Vieux
+Batch #3 - El Salvador (Finish Fino),La maison du rhum,France,70.0,40.0,Vieux
+Batch #3 - El Salvador (Finish Château Pape Clement),La maison du rhum,France,70.0,40.0,Vieux
+Batch #3 - Ile Maurice (Chamarel),La maison du rhum,France,70.0,45.0,Vieux
+Batch #3 - Martinique (Maison La Mauny),La maison du rhum,France,70.0,42.0,Vieux
+Batch #3 - Panama,La maison du rhum,France,70.0,45.0,Vieux
+Batch #3 - Paraguay,La maison du rhum,France,70.0,45.0,Vieux
+Batch #3 - Perou (Millonario),La maison du rhum,France,70.0,48.0,Vieux
+Batch #3 - Reunion (Riviere du Mât),La maison du rhum,France,70.0,45.0,Vieux
+Batch #3 - Sainte Lucie (St Lucia Distillers),La maison du rhum,France,70.0,45.0,Vieux
+Batch #3 - Trinidad & Tobago (Angostura),La maison du rhum,France,70.0,50.0,Vieux
+Batch #3 - Venezuela (Diplomatico),La maison du rhum,France,70.0,42.0,Vieux
+Rhum Grand Arôme de la Baie du Galion,Latitudes,France,70.0,60.0,Vieux
+"Demerara 2002 - Guyana (Full Proof) - 66,9°",Le gus't,France,70.0,66.9,Vieux
+"Demerara 2002 - Guyana (Optimum Proof) - 60,4°",Le gus't,France,70.0,60.4,Vieux
+Demerara 2002 - Guyana (Optimum Proof) - Cask #144 (Caroni),Le gus't,France,70.0,61.6,Vieux
+Demerara 2002 - Guyana (Version Reduite 46°) - Cask #144 (Caroni),Le gus't,France,70.0,46.0,Vieux
+"Demerara 2002 - Guyana (Full  Proof) - """"Marrons de la Liberte"""" - Cask #147",Le gus't,France,70.0,65.7,Vieux
+"Demerara 2002 - Guyana (Optimum Proof) - """"Marrons de la Liberte"""" - Cask #147",Le gus't,France,70.0,58.8,Vieux
+Uitvlugt 2007 - Demerara (Full Proof) - Cask #7242,Le gus't,France,70.0,74.1,Vieux
+Uitvlugt 2007 - Demerara (High Proof) - Cask #7242,Le gus't,France,70.0,50.0,Vieux
+Demerara 151 (Diamond),Lemon hart & son,Angleterre,70.0,75.5,Vieux
+Demerara Original,Lemon hart & son,Angleterre,70.0,40.0,Vieux
+Demerara Navy Spiced,Lemon hart & son,Angleterre,70.0,43.0,Spiced
+Golden Jamaica,Lemon hart & son,Angleterre,70.0,35.0,Ambre
+Jamaica,Lemon hart & son,Angleterre,70.0,73.0,Vieux
+Jamaican Rum 30 Years Old (Bouteille Triangulaire),Lemon hart & son,Angleterre,70.0,43.0,Vieux
+Superior,Lemon hart & son,Angleterre,70.0,37.5,Vieux
+Barbados Foursquare 11 Years (Tawny Finish),Les freres de la côte,Pays-Bas,70.0,63.3,Vieux
+Barbados Foursquare 11 Years (Tawny Finish 2005),Les freres de la côte,Pays-Bas,70.0,62.4,Vieux
+Bielle Brut de Fût 2011 (7 ans),Les freres de la côte,Pays-Bas,70.0,53.9,Vieux
+Fût Unique,Le sot de l'ange,France,70.0,44.5,Vieux
+Fût Unique n°2 (Cask #4),Le sot de l'ange,France,70.0,47.0,Vieux
+Rhum Agricole de Marie-Galante (Bielle) - Cask #1,Le sot de l'ange,France,70.0,40.0,Vieux
+Caroni 1997,Liquid art,Belgique,70.0,50.5,Vieux
+Diamond 2003,Liquid art,Belgique,70.0,51.1,Vieux
+Barbancourt 13 Years Old 2004-2017,Liquid treasures,Allemagne,70.0,54.6,Vieux
+Beenleigh Australian Rum,Liquoriste,France,70.0,46.0,Vieux
+Exotics Blended Rum,Liquoriste,France,70.0,43.0,Vieux
+Foursquare Blend,Liquoriste,France,70.0,46.0,Vieux
+Hampden Jamaican Rum (PX),Liquoriste,France,70.0,65.0,Vieux
+Martinique Agricole Rum,Liquoriste,France,70.0,55.0,Vieux
+Single Estate Fiji Rum,Liquoriste,France,70.0,45.0,Vieux
+Single Estate Guatemala Ron,Liquoriste,France,70.0,46.0,Vieux
+Single Estate Jamaica Rum (Amontillado),Liquoriste,France,70.0,65.0,Vieux
+Single Estate Jamaica Rum (Bourbon Cask),Liquoriste,France,70.0,65.0,Vieux
+Single Estate Jamaica Rum (Brandy),Liquoriste,France,70.0,65.0,Vieux
+Colonial American Inspired Rum,Lost spirits,United States,70.0,62.0,Vieux
+Cuban Inspired Rum,Lost spirits,United States,70.0,75.5,Vieux
+Navy Style Rum (55°),Lost spirits,United States,70.0,55.0,Vieux
+Navy Style Rum (57°),Lost spirits,United States,70.0,57.0,Vieux
+Navy Style Rum (61°),Lost spirits,United States,70.0,61.0,Vieux
+Navy Style Rum (68°),Lost spirits,United States,70.0,68.0,Vieux
+Polynesian Inspired Rum,Lost spirits,United States,70.0,66.0,Vieux
+Jamaica 1992 (15th Anniversary 1996-2011) - Long Pond (45°),Mac y,Danemark,70.0,45.0,Vieux
+Belize Don Tito Millesime 2006,Maison chollet,France,70.0,45.6,Vieux
+Panama Don Tito Millesime 2006,Maison chollet,France,70.0,43.8,Vieux
+Blended Rum - Barbados 8Y - Dominicain Republic 5Y - Jamaïca 3Y,Maman brigitte,Belgique,70.0,43.0,Vieux
+Mischler's Rum - Jamaica & Trinidad,Albert michler,Angleterre,70.0,40.0,Vieux
+Mischler's Rum - Overproof,Albert michler,Angleterre,70.0,63.0,Vieux
+Alnwick Rum - Spirit of Northumberland,Alnwick,Angleterre,70.0,43.0,Vieux
+Fine Old Vatted Rum - Empire Produce,Alnwick,Angleterre,70.0,35.0,Vieux
+Golden Spiced Rum,Alnwick,Angleterre,70.0,40.0,Spiced
+The Legendary Alnwick Rum,Alnwick,Angleterre,70.0,43.0,Vieux
+White Knight Rum,Alnwick,Angleterre,70.0,37.5,Vieux
+Barbados Foursquare - 13 Years,Anam na h-alba,Allemagne,70.0,63.9,Vieux
+Guyana - Ten Years,Anam na h-alba,Allemagne,70.0,66.6,Vieux
+10 Year Old Navy Rum (Diamond),Ancient mariner,Angleterre,70.0,54.0,Vieux
+Fijian 9 Ans,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+16 Year Old Navy Rum (Caroni),Ancient mariner,Angleterre,70.0,54.0,Vieux
+Navy Rum (Caroni),Ancient mariner,Angleterre,70.0,54.0,Vieux
+N°1 - Panama,Arnisser,Allemagne,70.0,54.2,Vieux
+N°2 - Guatemala,Arnisser,Allemagne,70.0,59.8,Vieux
+N°3 - Belize,Arnisser,Allemagne,70.0,69.1,Vieux
+N°4 - Barbados,Arnisser,Allemagne,70.0,66.1,Vieux
+N°5 - Guyana,Arnisser,Allemagne,70.0,65.5,Vieux
+N°6 - Trinidad,Arnisser,Allemagne,70.0,75.5,Vieux
+N°7 - Jamaica,Arnisser,Allemagne,70.0,46.0,Vieux
+Alcoholes Finos Dominicanos 8 Ans,Bapt & clems,France,70.0,45.0,Vieux
+Foursquare 5 Ans,Bapt & clems,France,70.0,43.0,Vieux
+Oliver & Oliver 18 Ans Solera,Bapt & clems,France,70.0,43.0,Vieux
+Oxenham 4 Ans,Bapt & clems,France,70.0,45.0,Vieux
+Reimonenq Millesime 1999,Bapt & clems,France,70.0,41.0,Vieux
+Reimonenq Millesime 2009,Bapt & clems,France,70.0,46.0,Vieux
+Savanna 12 Ans,Bapt & clems,France,70.0,45.0,Vieux
+Travellers 4 Ans,Bapt & clems,France,70.0,47.0,Vieux
+Barbade 2011-2019 (Foursquare),Barikenn,France,70.0,54.4,Vieux
+Guyana 2012-2020 (Diamond),Barikenn,France,70.0,58.9,Vieux
+Jamaica 2010-2019 (Worthy Park),Barikenn,France,70.0,55.0,Vieux
+Barrell Rum - Tales of Two Islands,Barrel craft spirits,United States,70.0,66.4,Vieux
+Bach 001,Barrel craft spirits,United States,70.0,67.36,Vieux
+Private Release,Barrel craft spirits,United States,70.0,64.52,Vieux
+Rum (13 yo),Barrel craft spirits,United States,70.0,62.1,Vieux
+Foursquare 2005 (13 Yo) - Cask #MRC 3411,Beek,Pays-Bas,70.0,51.4,Vieux
+Rum Quality Blend,Beek,Pays-Bas,70.0,46.0,Vieux
+B13 Rum - 13 Years,Bentley rum,Allemagne,70.0,40.0,Vieux
+Barbados 1986 (Finest Bajan Rum) - West Indies,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Caroni Trinidad 19 Years - 1997-2016,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Demerara Enmore 1988,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Demerara Port Mourant 1992 (Uitvlugt),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Demerara Versailles 1985 (Enmore),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Rhum (Beenleigh 2015-2019),& fine spirits,France,50.0,57.18,Vieux
+Fijian 9 Ans (Millesime 2001),Berry bros & rudd,Angleterre,70.0,64.0,Vieux
+Fijian 11 Ans (Millesime 2003),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Grenada 7 Ans (Millesime 2003),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Grenada 13 Ans,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Guadeloupe Rum 16 Ans (Millesime 1998),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Guadeloupe Rum 18 Ans (Millesime 1998),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Guyana Rum 13 Ans - Cask #31 (Kirsch Whisky),Berry bros & rudd,Angleterre,70.0,62.0,Vieux
+Guyana Rum 16 Ans - Cask #63 (Diamond),Berry bros & rudd,Angleterre,70.0,47.7,Vieux
+Guyana Rum 24 Ans (Millesime 1991) - Cask #02/V64-7 (Diamond),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Jamaican Rum 27 Years (Millesime 1977) ,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+"Jamaican Rum """"Overproof"""" (Millesime 1977) - Cask #23",Berry bros & rudd,Angleterre,70.0,60.3,Vieux
+Jamaican Rum (Millesime 1982) ,Berry bros & rudd,Angleterre,70.0,57.0,Vieux
+Jamaican Rum (Millesime 1986) - Long Pond,Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Jamaican Rum Monymusk Estate (Millesime 2003),Berry bros & rudd,Angleterre,70.0,55.4,Vieux
+Nicaraguan (Millesime 1999),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Nicaraguan (Millesime 2000),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+Nicaraguan (Millesime 2002),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+St. Lucia Rum 14 Ans (Millesime 2000),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+St. Lucia Rum 14 Ans - The Nectar,Berry bros & rudd,Angleterre,70.0,52.5,Vieux
+St. Lucia Rum 16 Ans (Millesime 2000),Berry bros & rudd,Angleterre,70.0,46.0,Vieux
+The Classic Range - Barbados Rum,Berry bros & rudd,Angleterre,70.0,40.5,Vieux
+The Classic Range - Guatemala Rum,Berry bros & rudd,Angleterre,70.0,40.5,Vieux
+The Classic Range - Jamaica Rum,Berry bros & rudd,Angleterre,70.0,40.5,Vieux
+The Classic Range - Nicaragua Rum,Berry bros & rudd,Angleterre,70.0,40.5,Vieux
+Circee - Black Spiced Rum,Bigallet,France,70.0,40.0,Spiced
+Bielle - Cuvee 2009 (Brut de Fût #54),La confrerie du rhum,France,70.0,51.9,Vieux
+Guyana 1997-2016 (Cask #13) - Uitvlugt,Duncan taylor,Ecosse,70.0,53.5,Vieux
+A Panama Distillery 2004 (Cask #BB 44) - Cask Strength,L'esprit,France,70.0,61.4,Vieux
+Travellers 2005  (Cask #BB  27) - Cask Strength,L'esprit,France,70.0,67.0,Vieux
+Batch #2 - Martinique (Maison La Mauny),La maison du rhum,France,70.0,42.0,Vieux
+Batch #1 - Colombie (Hacienda Coloma),La maison du rhum,France,70.0,46.0,Vieux
+Batch #2 - Republique Dominicaine,La maison du rhum,France,70.0,42.0,Vieux
+Bielle 2005-2011,Comptoir des caraïbes,France,70.0,50.0,Vieux
+"La Tour De L'Or - Bielle (57,4°)",Chantal comte,France,70.0,57.4,Vieux
+Drink It Zipp It (Caroni),Corman collins rhums,Belgique,70.0,61.0,Vieux
+Influences n°1 - Trinidad-Jamaique,Famille ricci,France,70.0,46.0,Vieux
+Finest Old Demerara Rum - Port Mourant 1974 (Uitvlugt),Bristol classic rum,Angleterre,70.0,46.0,Vieux
+Boulet de Canon n°1,Compagnie des indes,France,70.0,46.0,Vieux
+Caraïbes,Compagnie des indes,France,70.0,40.0,Vieux
+Caraïbes (Edition de Noël),Compagnie des indes,France,70.0,40.0,Vieux
+Guyana 18 Ans - Cask #MGA4 - 1997 (Uitvlugt),Compagnie des indes,France,70.0,45.0,Vieux
+Jamaica 5 Ans,Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 5 Ans - Edition Le Calbar,Compagnie des indes,France,70.0,43.0,Vieux
+Jamaica 5 Ans - Hyperboissons,Compagnie des indes,France,70.0,43.0,Vieux
+Latino 5 Ans,Compagnie des indes,France,70.0,40.0,Vieux
+Dynasty,Famille ricci,France,70.0,40.0,Vieux
+Turquoise Bay - Mauritus Reserve Amber Rum,Island signature,France,70.0,40.0,Ambre
+"Enmore Distillery, Demerara 1988",Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Guyana 1990 (Enmore),Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Jamaica 1992 (Hampden),Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Panama 1997 (Don Jose),Caribbean reserve,Ecosse,70.0,46.0,Vieux
+"Pampero Distillery, Trinidad 1992",Caribbean reserve,Ecosse,70.0,46.0,Vieux
+"Port Mourant Distillery, Demerara 1989 (Uitvlugt)",Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Port Morant Distillery 1990 (Uitvlugt),Caribbean reserve,Ecosse,70.0,46.0,Vieux
+"Providence Distillery, Trinidad - Aged 10 Years",Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Venezuela 1992,Caribbean reserve,Ecosse,70.0,46.0,Vieux
+Caroni 1997-2019,Caroni rom dansk fanklub,Danemark,50.0,61.1,Vieux
+Caroni 1998-2020 (With Rum Artesanal),Caroni rom dansk fanklub,Danemark,50.0,68.9,Vieux
+Barbados 15 Years West Indies 2000-2015,Cave guildive,Suisse,70.0,54.0,Vieux
+Barbados 17 Years West Indies 2000-2017,Cave guildive,Suisse,70.0,56.0,Vieux
+Demerara 10 Years Port Mourant 2005-2015,Cave guildive,Suisse,70.0,55.0,Vieux
+Demerara 25 Years Enmore 1990-2015,Cave guildive,Suisse,70.0,56.0,Vieux
+Dominican Republic 13 Years (Double Wine Cask),Cave guildive,Suisse,70.0,49.0,Vieux
+Fiji 15 Years South Pacific 2001-2016,Cave guildive,Suisse,70.0,58.0,Vieux
+Jamaica 12 Years New Yarmouth 2005-2017,Cave guildive,Suisse,70.0,68.0,Vieux
+Jamaica 23 Years Hampden 1993-2016,Cave guildive,Suisse,70.0,61.0,Vieux
+Marie-Galante 9 Years Bielle 2008-2017,Cave guildive,Suisse,70.0,55.0,Vieux
+Nicaragua 13 Years 2004-2017,Cave guildive,Suisse,70.0,66.0,Vieux
+Nicaragua 15 Years 2000-2015,Cave guildive,Suisse,70.0,56.0,Vieux
+Panama 11 Years 2006-2017 (Cask #79),Cave guildive,Suisse,70.0,60.0,Vieux
+L'Arbre du Voyageur - Brut de Cuves (La Mauny),Chantal comte,France,70.0,60.2,Vieux
+L'Arbre du Voyageur - 1998 (La Favorite),Chantal comte,France,70.0,40.0,Vieux
+L'Arbre du Voyageur - 2001 - La Favorite),Chantal comte,France,70.0,45.5,Vieux
+L'Arbre du Voyageur - 2001 (Non Filtre) - La Favorite,Chantal comte,France,70.0,45.5,Vieux
+L'Arbre du Voyageur - 3 Ans d'Age (La Mauny),Chantal comte,France,70.0,53.5,Vieux
+L'Arbre du Voyageur - 5 Ans d'Age (Depaz),Chantal comte,France,70.0,45.0,Vieux
+L'Arbre du Voyageur - VSOP (Depaz),Chantal comte,France,70.0,45.0,Vieux
+Trinidad 1991-2017 (Cask #2466) - TDL,Duncan taylor,Ecosse,70.0,52.1,Vieux
+Trinidad 1991-2012 (Cask #2467) - TDL,Duncan taylor,Ecosse,70.0,54.8,Vieux
+Trinidad 1997-2014 (Cask #49) - Caroni,Duncan taylor,Ecosse,70.0,56.4,Vieux
+Trinidad 1997-2014 (Cask #110) - Caroni,Duncan taylor,Ecosse,70.0,53.8,Vieux
+Trinidad 1997-2014 (Cask #115) - Caroni,Duncan taylor,Ecosse,70.0,55.4,Vieux
+Trinidad 1997-2015 (Cask #854) - Caroni,Duncan taylor,Ecosse,70.0,52.5,Vieux
+Aged & Geeky (AG),Ekte,Danemark,70.0,43.0,Vieux
+Dark & Aged (DA),Ekte,Danemark,70.0,38.0,Vieux
+Light & Dry (LD),Ekte,Danemark,70.0,43.0,Blanc
+N°1 - Panama 11 Ans,Ekte,Danemark,70.0,63.1,Vieux
+N°2 - Jamaica 12 Ans (Monymusk),Ekte,Danemark,70.0,60.0,Vieux
+N°3 - Nicaragua 15 Ans,Ekte,Danemark,70.0,68.6,Vieux
+N°4 - Jamaica 15 Ans (Long Pond),Ekte,Danemark,70.0,61.4,Vieux
+N°5 - Guyana 17 Ans (Uitvlugt),Ekte,Danemark,70.0,62.8,Vieux
+El Matcho (Hampden),El matcho,Belgique,50.0,40.0,Vieux
+Batch #1 - Guadeloupe (Damoiseau),La maison du rhum,France,70.0,42.0,Vieux
+Batch #1 - Guatemala (Botran),La maison du rhum,France,70.0,45.0,Vieux
+Batch #1 - Martinique (Maison La Mauny),La maison du rhum,France,70.0,45.0,Vieux
+Batch #1 - Perou (Millonario),La maison du rhum,France,70.0,48.0,Vieux
+Batch #1 - Reunion (Riviere du Mât),La maison du rhum,France,70.0,45.0,Vieux
+Batch #1 - Sainte Lucie (St Lucia Distillers),La maison du rhum,France,70.0,45.0,Vieux
+Batch #1 - Trinidad & Tobago (Angostura),La maison du rhum,France,70.0,43.0,Vieux
+Batch #1 - Venezuela (Diplomatico),La maison du rhum,France,70.0,47.0,Vieux
+Batch #2 - Colombie (Hacienda Coloma),La maison du rhum,France,70.0,46.0,Vieux
+Rhum Vieux Jamaique 3 Ans,Le puits a whisky,France,70.0,40.0,Vieux
+Jamaica 1992 (15th Anniversary 1996-2011) - Long Pond (63°),Mac y,Danemark,70.0,63.0,Vieux
+Jamaique 2007 (Monymusk),Ferroni,France,50.0,64.5,Vieux
+Darsa 2007 (Cask #BB 14) - Cask Strength,L'esprit,France,70.0,59.6,Vieux
