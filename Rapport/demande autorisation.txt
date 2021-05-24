@@ -1,0 +1,27 @@
+Bonjour,
+ 
+Je m'appelle Mayel Pèllé, je suis un ancien d'HSE. Je suis actuellement en reconversion professionnelle. Je suis entrain de suivre une formation en informatique pour devenir développeur data. C'est une formation qui nous apprend à gérer une base de données.
+Pour la certification, on doit réaliser un projet qui montre l'ensemble de nos compétences. J'ai choisi un sujet autour du rhum. Mon but est de créer un programme qui permet de gérer une collection de rhum. Pour créer ma base de données, je souhaite pouvoir récupérer certaines données sur le rhum sur votre site par scrapping (https://fr.wikipedia.org/wiki/Web_scraping). Par exemple, je souhaite récupérer la marque, les caractéristiques voir le prix d'une bouteille.
+J'aimerai avoir votre autorisation pour récupérer et utiliser ces données présentes sur votre site La Compagnie du Rhum (un des sites de référence pour les passionnés) et si oui, sous quelle conditions.
+Je tiens à préciser que mon programme n'a aucun but commercial. Son but est purement éducatif. Vous pourrez avoir accès à l'ensemble du programme si vous le désirez.
+Je suis à votre disposition si vous avez des questions sur mon projet.
+
+Cordialement,
+ Mayel Pèllé.
+
+
+Hello,
+ 
+My name is Mayel Pèllé, I worked at HSE, in Martinique. I am currently in professional retraining. I am in the process of following a computer training course to become a data developer. It is a training which teaches us to manage a database.
+
+For certification, we must carry out a project that shows all of our skills. I chose a subject around rum. My goal is to create a program that can manage a collection of rum. It is like a mini rumratings ‘s clone.  To create my database, I want to be able to retrieve some data on rum on your site by scrapping. For example, I want to recover the brand and the characteristics of a rum. But I will merely focus on Caraïbean rums.
+I would like to have your authorization to retrieve and use this data present on RumRatins website (one of the reference website for enthusiasts) and if so, under what conditions.
+I want to clarify that my program has no commercial purpose. Its purpose is purely educational. You will be able to access the entire program if you wish.
+I want to add, that I am new to coding and I am really enjoyed it. So I really want to unite the coding world and rum world.
+I am at your disposal if you have any questions about my project.
+
+Regards,
+ Mayel Pèllé.
+
+
+

@@ -1,0 +1,20 @@
+{
+    "ExifTool Version Number": "12.21",
+    "File Name": "rum_data_new2.csv",
+    "Directory": ".",
+    "File Size": "1525 KiB",
+    "File Modification Date/Time": "2021:05:03 10:37:19+02:00",
+    "File Access Date/Time": "2021:05:04 13:44:58+02:00",
+    "File Creation Date/Time": "2021:04:28 10:29:12+02:00",
+    "File Permissions": "-rw-rw-rw-",
+    "File Type": "CSV",
+    "File Type Extension": "csv",
+    "MIME Type": "text/csv",
+    "MIME Encoding": "utf-8",
+    "Byte Order Mark": "No",
+    "Newlines": "Windows CRLF",
+    "Warning": "[Minor] Not counting rows past 1000",
+    "Delimiter": "Comma",
+    "Quoting": "Double quotes",
+    "Column Count": "10"
+}

@@ -1,0 +1,5 @@
+connexion à mongodb et lancement du serveur:
+"C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath="c:\data\db"
+
+lancer mongo shell:
+"C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
